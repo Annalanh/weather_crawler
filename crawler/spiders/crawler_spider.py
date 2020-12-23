@@ -13,7 +13,7 @@ class CrawlerSpider(Spider):
         current_datetime = datetime.today() 
         #lấy 89 ngày tính từ ngày 
         for i in range(90):
-            date = current_datetime - timedelta(days=i)
+            date = current_datetime - timedelta(days= i + 1)
             date_str = str(date.year)+"-"+str(date.month)+"-"+str(date.day)
             yield FormRequest("https://www.worldweatheronline.com/ha-noi-weather-history/vn.aspx?",
                 formdata={
@@ -35,6 +35,7 @@ class CrawlerSpider(Spider):
 
     def parse(self, response):
         data_table = Selector(response).xpath('//*[@id="aspnetForm"]/div[2]/main/div[6]/div/div[1]/div/div[2]/div//div')
+        request_date = Selector(response).xpath('//*[@id="aspnetForm"]/div[2]/main/div[4]/div/div/div/input/@value').get()
 
         time1_data = data_table[12:23]
         time2_data = data_table[24:35]
@@ -54,7 +55,6 @@ class CrawlerSpider(Spider):
         time6_data_text = []
         time7_data_text = []
         time8_data_text = []
-    
 
         for data in time1_data:
             time1_data_text.append(data.xpath(".//text()").extract_first())
@@ -82,6 +82,10 @@ class CrawlerSpider(Spider):
         weather_data.append(time8_data_text)
 
         df = pd.DataFrame(np.array(weather_data))
+        df['date'] = np.full(
+                        shape=8,
+                        fill_value=request_date,
+                        )
         df.to_csv('output.csv', mode='a', header=False, index=False)
 
  

@@ -1,336 +1,720 @@
-00:00,Light rain shower,23 °c,26 °c,12 km/h from SSE,18 km/h,0.3 mm,90%,60%,1012 mb,Excellent
-03:00,Light rain shower,23 °c,25 °c,10 km/h from SE,15 km/h,0.8 mm,92%,71%,1012 mb,Excellent
-06:00,Light rain shower,23 °c,25 °c,9 km/h from ESE,14 km/h,1.0 mm,93%,78%,1013 mb,Excellent
-09:00,Light rain shower,25 °c,27 °c,13 km/h from SE,19 km/h,1.4 mm,82%,89%,1015 mb,Excellent
-12:00,Light rain shower,27 °c,29 °c,18 km/h from SE,28 km/h,2.3 mm,70%,93%,1013 mb,Excellent
-15:00,Moderate or heavy rain shower,26 °c,28 °c,21 km/h from SE,30 km/h,1.3 mm,70%,89%,1012 mb,Excellent
-18:00,Light rain shower,24 °c,26 °c,20 km/h from ESE,28 km/h,0.7 mm,78%,90%,1014 mb,Excellent
-21:00,Light rain shower,22 °c,22 °c,17 km/h from ESE,24 km/h,0.6 mm,83%,97%,1017 mb,Average
-00:00,Overcast,13 °c,13 °c,10 km/h from NNE,14 km/h,0.0 mm,53%,100%,1022 mb,Excellent
-03:00,Overcast,13 °c,12 °c,10 km/h from NNE,14 km/h,0.0 mm,53%,92%,1022 mb,Excellent
-06:00,Overcast,13 °c,12 °c,11 km/h from NNE,15 km/h,0.0 mm,54%,91%,1022 mb,Excellent
-09:00,Overcast,13 °c,12 °c,13 km/h from NNE,18 km/h,0.0 mm,54%,96%,1024 mb,Excellent
-12:00,Overcast,14 °c,13 °c,14 km/h from N,18 km/h,0.0 mm,52%,80%,1023 mb,Excellent
-15:00,Cloudy,15 °c,15 °c,13 km/h from NNE,17 km/h,0.0 mm,50%,61%,1021 mb,Excellent
-18:00,Partly cloudy,15 °c,14 °c,12 km/h from NNE,18 km/h,0.0 mm,53%,58%,1022 mb,Excellent
-21:00,Partly cloudy,14 °c,13 °c,13 km/h from NNE,19 km/h,0.0 mm,50%,73%,1024 mb,Excellent
-00:00,Overcast,14 °c,13 °c,12 km/h from WSW,18 km/h,0.0 mm,44%,82%,1025 mb,Excellent
-03:00,Cloudy,14 °c,13 °c,14 km/h from N,21 km/h,0.0 mm,45%,76%,1024 mb,Excellent
-06:00,Cloudy,14 °c,12 °c,14 km/h from ESE,22 km/h,0.0 mm,48%,75%,1025 mb,Excellent
-09:00,Cloudy,14 °c,13 °c,17 km/h from NNE,24 km/h,0.0 mm,46%,56%,1027 mb,Excellent
-12:00,Partly cloudy,14 °c,13 °c,18 km/h from NNE,24 km/h,0.0 mm,44%,73%,1025 mb,Excellent
-15:00,Cloudy,15 °c,14 °c,15 km/h from NNE,20 km/h,0.0 mm,45%,70%,1023 mb,Excellent
-18:00,Partly cloudy,12 °c,12 °c,11 km/h from WSW,17 km/h,0.0 mm,46%,64%,1024 mb,Excellent
-21:00,Cloudy,8 °c,8 °c,10 km/h from N,17 km/h,0.0 mm,47%,61%,1026 mb,Excellent
-00:00,Partly cloudy,15 °c,15 °c,13 km/h from N,21 km/h,0.0 mm,43%,52%,1027 mb,Excellent
-03:00,Partly cloudy,15 °c,14 °c,17 km/h from NNE,25 km/h,0.0 mm,44%,65%,1026 mb,Excellent
-06:00,Cloudy,14 °c,12 °c,18 km/h from NNE,28 km/h,0.0 mm,44%,53%,1026 mb,Excellent
-09:00,Partly cloudy,15 °c,14 °c,20 km/h from NNE,26 km/h,0.0 mm,39%,45%,1027 mb,Excellent
-12:00,Partly cloudy,17 °c,17 °c,17 km/h from NNE,21 km/h,0.0 mm,36%,43%,1025 mb,Excellent
-15:00,Partly cloudy,18 °c,18 °c,12 km/h from NNE,14 km/h,0.0 mm,35%,36%,1022 mb,Excellent
-18:00,Partly cloudy,18 °c,18 °c,6 km/h from NNE,9 km/h,0.0 mm,41%,35%,1023 mb,Excellent
-21:00,Partly cloudy,16 °c,16 °c,10 km/h from NNE,16 km/h,0.0 mm,42%,38%,1025 mb,Excellent
-00:00,Light drizzle,17 °c,17 °c,12 km/h from NE,15 km/h,0.1 mm,81%,100%,1018 mb,Good
-03:00,Overcast,17 °c,17 °c,11 km/h from NE,15 km/h,0.0 mm,81%,100%,1018 mb,Excellent
-06:00,Overcast,16 °c,16 °c,10 km/h from ENE,14 km/h,0.0 mm,79%,98%,1020 mb,Excellent
-09:00,Overcast,16 °c,16 °c,10 km/h from ENE,13 km/h,0.1 mm,78%,99%,1021 mb,Excellent
-12:00,Patchy rain possible,18 °c,18 °c,8 km/h from ENE,10 km/h,0.0 mm,75%,100%,1020 mb,Excellent
-15:00,Overcast,19 °c,19 °c,7 km/h from ENE,9 km/h,0.0 mm,73%,100%,1018 mb,Excellent
-18:00,Overcast,18 °c,18 °c,10 km/h from ENE,14 km/h,0.1 mm,74%,91%,1020 mb,Excellent
-21:00,Patchy rain possible,17 °c,17 °c,10 km/h from NE,13 km/h,0.0 mm,73%,94%,1022 mb,Excellent
-00:00,Overcast,11 °c,11 °c,8 km/h from NNE,10 km/h,0.0 mm,60%,100%,1023 mb,Excellent
-03:00,Overcast,13 °c,13 °c,8 km/h from NNE,11 km/h,0.0 mm,60%,100%,1022 mb,Excellent
-06:00,Overcast,13 °c,13 °c,8 km/h from NNE,10 km/h,0.0 mm,61%,100%,1022 mb,Excellent
-09:00,Overcast,14 °c,13 °c,8 km/h from NNE,10 km/h,0.0 mm,59%,100%,1024 mb,Excellent
-12:00,Overcast,16 °c,16 °c,7 km/h from NNE,9 km/h,0.0 mm,56%,99%,1022 mb,Excellent
-15:00,Overcast,18 °c,18 °c,6 km/h from NNE,7 km/h,0.0 mm,55%,99%,1019 mb,Excellent
-18:00,Overcast,17 °c,17 °c,6 km/h from N,8 km/h,0.0 mm,60%,95%,1020 mb,Excellent
-21:00,Overcast,16 °c,16 °c,8 km/h from NNE,11 km/h,0.0 mm,63%,88%,1022 mb,Excellent
-00:00,Partly cloudy,15 °c,14 °c,16 km/h from NNE,25 km/h,0.0 mm,40%,34%,1026 mb,Excellent
-03:00,Partly cloudy,14 °c,13 °c,17 km/h from NNE,27 km/h,0.0 mm,40%,24%,1025 mb,Excellent
-06:00,Partly cloudy,14 °c,12 °c,17 km/h from NNE,26 km/h,0.0 mm,39%,20%,1026 mb,Excellent
-09:00,Partly cloudy,16 °c,15 °c,19 km/h from NNE,24 km/h,0.0 mm,35%,20%,1026 mb,Excellent
-12:00,Partly cloudy,19 °c,19 °c,17 km/h from NNE,19 km/h,0.0 mm,32%,20%,1023 mb,Excellent
-15:00,Partly cloudy,21 °c,21 °c,12 km/h from NNE,13 km/h,0.0 mm,31%,20%,1020 mb,Excellent
-18:00,Partly cloudy,19 °c,19 °c,10 km/h from NE,15 km/h,0.0 mm,36%,21%,1021 mb,Excellent
-21:00,Partly cloudy,17 °c,17 °c,9 km/h from NE,15 km/h,0.0 mm,41%,25%,1022 mb,Excellent
-00:00,Overcast,11 °c,10 °c,10 km/h from NNE,14 km/h,0.0 mm,58%,100%,1023 mb,Excellent
-03:00,Overcast,12 °c,11 °c,12 km/h from NNE,16 km/h,0.0 mm,60%,100%,1023 mb,Excellent
-06:00,Overcast,12 °c,10 °c,12 km/h from NNE,16 km/h,0.0 mm,66%,100%,1024 mb,Excellent
-09:00,Overcast,12 °c,10 °c,12 km/h from NNE,15 km/h,0.0 mm,67%,100%,1025 mb,Excellent
-12:00,Overcast,13 °c,12 °c,10 km/h from NNE,13 km/h,0.0 mm,64%,100%,1024 mb,Excellent
-15:00,Overcast,14 °c,13 °c,9 km/h from NNE,12 km/h,0.0 mm,62%,100%,1022 mb,Excellent
-18:00,Overcast,13 °c,12 °c,7 km/h from NNE,10 km/h,0.0 mm,63%,100%,1022 mb,Excellent
-21:00,Overcast,9 °c,9 °c,7 km/h from NNE,9 km/h,0.0 mm,62%,100%,1024 mb,Excellent
-00:00,Overcast,21 °c,21 °c,10 km/h from SE,15 km/h,0.1 mm,91%,84%,1012 mb,Excellent
-03:00,Patchy rain possible,21 °c,21 °c,7 km/h from SE,10 km/h,0.1 mm,92%,86%,1011 mb,Excellent
-06:00,Patchy rain possible,21 °c,21 °c,4 km/h from ESE,6 km/h,0.0 mm,92%,95%,1012 mb,Excellent
-09:00,Overcast,22 °c,22 °c,3 km/h from E,4 km/h,0.0 mm,88%,92%,1013 mb,Excellent
-12:00,Overcast,24 °c,26 °c,3 km/h from ENE,3 km/h,0.0 mm,77%,90%,1011 mb,Excellent
-15:00,Overcast,25 °c,27 °c,4 km/h from E,4 km/h,0.1 mm,73%,74%,1010 mb,Excellent
-18:00,Patchy rain possible,24 °c,26 °c,5 km/h from E,7 km/h,0.0 mm,80%,57%,1011 mb,Excellent
-21:00,Partly cloudy,23 °c,25 °c,7 km/h from ESE,11 km/h,0.3 mm,87%,68%,1013 mb,Excellent
-00:00,Cloudy,21 °c,21 °c,8 km/h from SE,12 km/h,0.0 mm,84%,70%,1015 mb,Excellent
-03:00,Cloudy,21 °c,21 °c,7 km/h from E,10 km/h,0.1 mm,84%,90%,1015 mb,Excellent
-06:00,Patchy rain possible,21 °c,21 °c,6 km/h from ENE,10 km/h,0.0 mm,80%,99%,1015 mb,Excellent
-09:00,Overcast,21 °c,21 °c,6 km/h from E,8 km/h,0.0 mm,73%,94%,1016 mb,Excellent
-12:00,Overcast,23 °c,25 °c,6 km/h from SE,7 km/h,0.0 mm,69%,88%,1014 mb,Excellent
-15:00,Cloudy,24 °c,26 °c,9 km/h from SE,12 km/h,0.0 mm,67%,67%,1011 mb,Excellent
-18:00,Partly cloudy,22 °c,25 °c,11 km/h from SE,16 km/h,0.0 mm,78%,64%,1011 mb,Excellent
-21:00,Cloudy,21 °c,21 °c,9 km/h from SSE,14 km/h,0.0 mm,90%,66%,1012 mb,Excellent
-00:00,Partly cloudy,20 °c,20 °c,10 km/h from SSE,14 km/h,0.0 mm,74%,9%,1016 mb,Excellent
-03:00,Partly cloudy,19 °c,19 °c,6 km/h from SSE,9 km/h,0.0 mm,78%,10%,1015 mb,Excellent
-06:00,Partly cloudy,19 °c,19 °c,4 km/h from E,6 km/h,0.0 mm,80%,28%,1016 mb,Excellent
-09:00,Partly cloudy,21 °c,21 °c,3 km/h from E,4 km/h,0.0 mm,69%,67%,1017 mb,Excellent
-12:00,Cloudy,24 °c,25 °c,7 km/h from SSE,8 km/h,0.0 mm,60%,72%,1014 mb,Excellent
-15:00,Cloudy,25 °c,26 °c,11 km/h from SSE,13 km/h,0.0 mm,59%,26%,1012 mb,Excellent
-18:00,Partly cloudy,23 °c,25 °c,12 km/h from SSE,17 km/h,0.0 mm,69%,13%,1013 mb,Excellent
-21:00,Partly cloudy,21 °c,21 °c,11 km/h from SE,17 km/h,0.0 mm,82%,58%,1015 mb,Excellent
-00:00,Partly cloudy,19 °c,19 °c,5 km/h from ESE,7 km/h,0.0 mm,77%,24%,1017 mb,Excellent
-03:00,Partly cloudy,18 °c,18 °c,4 km/h from ENE,6 km/h,0.0 mm,79%,23%,1017 mb,Excellent
-06:00,Partly cloudy,17 °c,17 °c,4 km/h from SW,6 km/h,0.0 mm,78%,30%,1018 mb,Excellent
-09:00,Partly cloudy,19 °c,19 °c,3 km/h from NNW,4 km/h,0.0 mm,68%,59%,1019 mb,Excellent
-12:00,Cloudy,23 °c,24 °c,2 km/h from SSE,2 km/h,0.0 mm,54%,63%,1017 mb,Excellent
-15:00,Partly cloudy,25 °c,26 °c,4 km/h from SE,4 km/h,0.0 mm,49%,24%,1015 mb,Excellent
-18:00,Partly cloudy,24 °c,25 °c,6 km/h from S,8 km/h,0.0 mm,56%,5%,1015 mb,Excellent
-21:00,Partly cloudy,21 °c,21 °c,9 km/h from SSE,14 km/h,0.0 mm,66%,12%,1016 mb,Excellent
-00:00,Partly cloudy,15 °c,15 °c,13 km/h from NNE,21 km/h,0.0 mm,59%,21%,1023 mb,Excellent
-03:00,Partly cloudy,14 °c,13 °c,13 km/h from NNE,21 km/h,0.0 mm,62%,21%,1023 mb,Excellent
-06:00,Partly cloudy,14 °c,13 °c,11 km/h from NNE,18 km/h,0.0 mm,65%,14%,1024 mb,Excellent
-09:00,Partly cloudy,17 °c,16 °c,12 km/h from NNE,15 km/h,0.0 mm,53%,10%,1025 mb,Excellent
-12:00,Partly cloudy,20 °c,20 °c,10 km/h from NNE,12 km/h,0.0 mm,44%,7%,1022 mb,Excellent
-15:00,Partly cloudy,23 °c,25 °c,6 km/h from NE,7 km/h,0.0 mm,42%,3%,1019 mb,Excellent
-18:00,Partly cloudy,23 °c,25 °c,3 km/h from SE,4 km/h,0.0 mm,48%,2%,1020 mb,Excellent
-21:00,Partly cloudy,19 °c,19 °c,7 km/h from SSE,9 km/h,0.0 mm,59%,2%,1021 mb,Excellent
-00:00,Partly cloudy,19 °c,19 °c,6 km/h from SE,8 km/h,0.0 mm,68%,4%,1019 mb,Excellent
-03:00,Partly cloudy,19 °c,19 °c,6 km/h from ESE,7 km/h,0.0 mm,78%,2%,1018 mb,Excellent
-06:00,Partly cloudy,18 °c,18 °c,5 km/h from NE,5 km/h,0.0 mm,80%,3%,1018 mb,Excellent
-09:00,Partly cloudy,20 °c,20 °c,3 km/h from NE,3 km/h,0.0 mm,66%,5%,1019 mb,Excellent
-12:00,Partly cloudy,24 °c,25 °c,4 km/h from ESE,4 km/h,0.0 mm,51%,7%,1016 mb,Excellent
-15:00,Partly cloudy,25 °c,26 °c,8 km/h from SE,9 km/h,0.0 mm,49%,7%,1014 mb,Excellent
-18:00,Partly cloudy,22 °c,25 °c,10 km/h from SSE,14 km/h,0.0 mm,59%,9%,1015 mb,Excellent
-21:00,Partly cloudy,20 °c,20 °c,9 km/h from SSE,13 km/h,0.0 mm,69%,15%,1016 mb,Excellent
-00:00,Partly cloudy,17 °c,17 °c,4 km/h from ENE,6 km/h,0.0 mm,72%,32%,1022 mb,Excellent
-03:00,Partly cloudy,16 °c,16 °c,4 km/h from WSW,6 km/h,0.0 mm,76%,27%,1021 mb,Excellent
-06:00,Partly cloudy,15 °c,15 °c,8 km/h from NNW,13 km/h,0.0 mm,76%,59%,1022 mb,Excellent
-09:00,Cloudy,18 °c,18 °c,10 km/h from NNW,14 km/h,0.0 mm,61%,85%,1023 mb,Excellent
-12:00,Overcast,21 °c,21 °c,10 km/h from SE,12 km/h,0.0 mm,50%,87%,1021 mb,Excellent
-15:00,Cloudy,22 °c,24 °c,8 km/h from NE,9 km/h,0.0 mm,48%,56%,1019 mb,Excellent
-18:00,Partly cloudy,21 °c,21 °c,3 km/h from SSE,4 km/h,0.0 mm,55%,41%,1020 mb,Excellent
-21:00,Partly cloudy,19 °c,19 °c,3 km/h from ENE,4 km/h,0.0 mm,61%,46%,1022 mb,Excellent
-00:00,Partly cloudy,20 °c,20 °c,6 km/h from ESE,10 km/h,0.0 mm,60%,41%,1023 mb,Excellent
-03:00,Partly cloudy,18 °c,18 °c,11 km/h from N,17 km/h,0.0 mm,60%,79%,1022 mb,Excellent
-06:00,Overcast,17 °c,17 °c,14 km/h from NNE,21 km/h,0.0 mm,60%,100%,1023 mb,Excellent
-09:00,Overcast,19 °c,19 °c,15 km/h from NNE,19 km/h,0.0 mm,53%,75%,1024 mb,Excellent
-12:00,Cloudy,22 °c,23 °c,11 km/h from NNE,13 km/h,0.0 mm,43%,36%,1021 mb,Excellent
-15:00,Partly cloudy,24 °c,25 °c,6 km/h from N,7 km/h,0.0 mm,40%,16%,1018 mb,Excellent
-18:00,Partly cloudy,23 °c,25 °c,3 km/h from NNE,4 km/h,0.0 mm,47%,9%,1018 mb,Excellent
-21:00,Partly cloudy,21 °c,21 °c,5 km/h from ESE,8 km/h,0.0 mm,55%,11%,1019 mb,Excellent
-00:00,Clear,17 °c,17 °c,7 km/h from SSE,8 km/h,0.0 mm,69%,2%,1021 mb,Excellent
-03:00,Partly cloudy,17 °c,17 °c,4 km/h from ENE,4 km/h,0.0 mm,72%,3%,1021 mb,Excellent
-06:00,Partly cloudy,15 °c,16 °c,4 km/h from N,5 km/h,0.0 mm,75%,3%,1022 mb,Excellent
-09:00,Partly cloudy,18 °c,18 °c,5 km/h from WSW,6 km/h,0.0 mm,62%,4%,1023 mb,Excellent
-12:00,Partly cloudy,22 °c,23 °c,3 km/h from S,4 km/h,0.0 mm,48%,5%,1020 mb,Excellent
-15:00,Partly cloudy,23 °c,25 °c,4 km/h from ESE,4 km/h,0.0 mm,44%,7%,1018 mb,Excellent
-18:00,Partly cloudy,22 °c,22 °c,3 km/h from ESE,4 km/h,0.0 mm,50%,9%,1019 mb,Excellent
-21:00,Partly cloudy,19 °c,19 °c,6 km/h from SE,10 km/h,0.0 mm,66%,12%,1021 mb,Excellent
-00:00,Cloudy,17 °c,17 °c,19 km/h from NNE,29 km/h,0.0 mm,58%,92%,1024 mb,Excellent
-03:00,Overcast,16 °c,16 °c,18 km/h from NNE,26 km/h,0.0 mm,60%,97%,1023 mb,Excellent
-06:00,Overcast,15 °c,14 °c,16 km/h from NNE,23 km/h,0.0 mm,60%,64%,1024 mb,Excellent
-09:00,Partly cloudy,16 °c,16 °c,15 km/h from NNE,19 km/h,0.0 mm,55%,70%,1025 mb,Excellent
-12:00,Cloudy,20 °c,20 °c,11 km/h from NE,13 km/h,0.0 mm,47%,38%,1022 mb,Excellent
-15:00,Partly cloudy,22 °c,22 °c,8 km/h from NE,9 km/h,0.0 mm,44%,23%,1020 mb,Excellent
-18:00,Partly cloudy,20 °c,20 °c,7 km/h from ENE,10 km/h,0.0 mm,51%,25%,1020 mb,Excellent
-21:00,Partly cloudy,18 °c,18 °c,4 km/h from E,6 km/h,0.0 mm,59%,38%,1022 mb,Excellent
-00:00,Partly cloudy,19 °c,19 °c,12 km/h from NNE,18 km/h,0.0 mm,58%,58%,1022 mb,Excellent
-03:00,Partly cloudy,18 °c,18 °c,11 km/h from NNE,16 km/h,0.0 mm,61%,64%,1022 mb,Excellent
-06:00,Cloudy,18 °c,18 °c,12 km/h from NNE,17 km/h,0.0 mm,62%,60%,1023 mb,Excellent
-09:00,Partly cloudy,18 °c,18 °c,14 km/h from NNE,20 km/h,0.0 mm,60%,45%,1024 mb,Excellent
-12:00,Partly cloudy,19 °c,19 °c,12 km/h from NNE,14 km/h,0.0 mm,55%,42%,1022 mb,Excellent
-15:00,Partly cloudy,21 °c,21 °c,5 km/h from NE,6 km/h,0.0 mm,50%,53%,1020 mb,Excellent
-18:00,Partly cloudy,21 °c,21 °c,6 km/h from NNE,9 km/h,0.0 mm,55%,86%,1021 mb,Excellent
-21:00,Overcast,19 °c,19 °c,13 km/h from NE,19 km/h,0.0 mm,57%,86%,1023 mb,Excellent
-00:00,Cloudy,19 °c,19 °c,7 km/h from NE,10 km/h,0.0 mm,58%,77%,1022 mb,Excellent
-03:00,Cloudy,19 °c,19 °c,6 km/h from NE,8 km/h,0.0 mm,58%,93%,1021 mb,Excellent
-06:00,Overcast,18 °c,18 °c,6 km/h from NNE,8 km/h,0.0 mm,58%,97%,1021 mb,Excellent
-09:00,Overcast,19 °c,19 °c,7 km/h from NNE,9 km/h,0.0 mm,54%,69%,1023 mb,Excellent
-12:00,Partly cloudy,21 °c,21 °c,8 km/h from NNE,9 km/h,0.0 mm,48%,73%,1021 mb,Excellent
-15:00,Cloudy,23 °c,25 °c,8 km/h from NNE,9 km/h,0.0 mm,47%,94%,1019 mb,Excellent
-18:00,Overcast,22 °c,22 °c,7 km/h from NNE,10 km/h,0.0 mm,52%,72%,1020 mb,Excellent
-21:00,Partly cloudy,21 °c,21 °c,8 km/h from NE,12 km/h,0.0 mm,56%,59%,1022 mb,Excellent
-00:00,Partly cloudy,20 °c,20 °c,9 km/h from NE,12 km/h,0.0 mm,55%,19%,1024 mb,Excellent
-03:00,Partly cloudy,19 °c,19 °c,9 km/h from NNE,12 km/h,0.0 mm,55%,34%,1023 mb,Excellent
-06:00,Partly cloudy,18 °c,18 °c,8 km/h from NNE,12 km/h,0.0 mm,56%,53%,1023 mb,Excellent
-09:00,Partly cloudy,20 °c,20 °c,10 km/h from NNE,12 km/h,0.0 mm,52%,81%,1024 mb,Excellent
-12:00,Overcast,21 °c,21 °c,9 km/h from NNE,11 km/h,0.0 mm,49%,69%,1022 mb,Excellent
-15:00,Partly cloudy,22 °c,24 °c,7 km/h from ENE,8 km/h,0.0 mm,49%,69%,1020 mb,Excellent
-18:00,Cloudy,21 °c,21 °c,5 km/h from ESE,7 km/h,0.0 mm,53%,59%,1021 mb,Excellent
-21:00,Partly cloudy,21 °c,21 °c,4 km/h from SE,5 km/h,0.0 mm,58%,60%,1022 mb,Excellent
-00:00,Partly cloudy,18 °c,18 °c,7 km/h from NNE,10 km/h,0.0 mm,56%,14%,1024 mb,Excellent
-03:00,Partly cloudy,18 °c,18 °c,11 km/h from N,17 km/h,0.0 mm,57%,15%,1023 mb,Excellent
-06:00,Partly cloudy,18 °c,18 °c,14 km/h from N,22 km/h,0.0 mm,55%,19%,1024 mb,Excellent
-09:00,Partly cloudy,19 °c,19 °c,17 km/h from N,21 km/h,0.0 mm,47%,21%,1025 mb,Excellent
-12:00,Partly cloudy,22 °c,22 °c,15 km/h from NNE,18 km/h,0.0 mm,42%,18%,1023 mb,Excellent
-15:00,Partly cloudy,24 °c,25 °c,10 km/h from NNE,12 km/h,0.0 mm,40%,19%,1020 mb,Excellent
-18:00,Partly cloudy,22 °c,25 °c,8 km/h from NE,11 km/h,0.0 mm,47%,37%,1022 mb,Excellent
-21:00,Partly cloudy,21 °c,21 °c,8 km/h from NE,12 km/h,0.0 mm,52%,44%,1023 mb,Excellent
-00:00,Overcast,22 °c,25 °c,9 km/h from ENE,13 km/h,0.2 mm,71%,89%,1021 mb,Excellent
-03:00,Light rain shower,21 °c,21 °c,13 km/h from NE,18 km/h,0.1 mm,67%,72%,1021 mb,Excellent
-06:00,Cloudy,19 °c,19 °c,12 km/h from NE,17 km/h,0.0 mm,67%,62%,1023 mb,Excellent
-09:00,Partly cloudy,21 °c,21 °c,13 km/h from NNE,15 km/h,0.0 mm,60%,57%,1024 mb,Excellent
-12:00,Partly cloudy,24 °c,26 °c,11 km/h from NNE,12 km/h,0.0 mm,53%,36%,1022 mb,Excellent
-15:00,Partly cloudy,26 °c,26 °c,10 km/h from ENE,12 km/h,0.0 mm,50%,72%,1020 mb,Excellent
-18:00,Overcast,24 °c,25 °c,11 km/h from ENE,15 km/h,0.0 mm,56%,81%,1021 mb,Excellent
-21:00,Cloudy,22 °c,22 °c,9 km/h from NE,13 km/h,0.0 mm,64%,80%,1023 mb,Excellent
-00:00,Partly cloudy,23 °c,25 °c,5 km/h from SSE,8 km/h,0.0 mm,81%,80%,1020 mb,Excellent
-03:00,Overcast,23 °c,25 °c,5 km/h from SE,7 km/h,0.0 mm,82%,54%,1019 mb,Excellent
-06:00,Partly cloudy,23 °c,25 °c,3 km/h from SE,5 km/h,0.0 mm,82%,26%,1021 mb,Excellent
-09:00,Partly cloudy,25 °c,27 °c,7 km/h from E,8 km/h,0.0 mm,69%,43%,1022 mb,Excellent
-12:00,Partly cloudy,27 °c,29 °c,11 km/h from E,13 km/h,0.0 mm,57%,43%,1020 mb,Excellent
-15:00,Partly cloudy,28 °c,29 °c,12 km/h from ESE,14 km/h,0.0 mm,55%,28%,1018 mb,Excellent
-18:00,Partly cloudy,25 °c,27 °c,13 km/h from SE,17 km/h,0.0 mm,65%,14%,1019 mb,Excellent
-21:00,Partly cloudy,23 °c,25 °c,11 km/h from S,16 km/h,0.0 mm,75%,17%,1021 mb,Excellent
-00:00,Cloudy,23 °c,25 °c,9 km/h from SE,13 km/h,0.1 mm,90%,60%,1018 mb,Excellent
-03:00,Light rain shower,22 °c,25 °c,7 km/h from ESE,10 km/h,0.3 mm,91%,72%,1017 mb,Excellent
-06:00,Light rain shower,22 °c,25 °c,6 km/h from ENE,9 km/h,0.5 mm,90%,72%,1018 mb,Excellent
-09:00,Light rain shower,24 °c,26 °c,9 km/h from E,11 km/h,0.4 mm,79%,86%,1020 mb,Excellent
-12:00,Light rain shower,26 °c,28 °c,13 km/h from ESE,17 km/h,1.2 mm,71%,66%,1018 mb,Excellent
-15:00,Light rain shower,26 °c,28 °c,15 km/h from SE,22 km/h,1.2 mm,71%,55%,1016 mb,Excellent
-18:00,Light rain shower,24 °c,26 °c,14 km/h from SE,21 km/h,1.0 mm,78%,72%,1018 mb,Excellent
-21:00,Patchy rain possible,23 °c,25 °c,8 km/h from SSE,12 km/h,0.3 mm,85%,52%,1019 mb,Excellent
-00:00,Overcast,23 °c,25 °c,6 km/h from SSE,9 km/h,0.0 mm,84%,100%,1018 mb,Excellent
-03:00,Overcast,22 °c,25 °c,3 km/h from ESE,4 km/h,0.5 mm,86%,100%,1017 mb,Average
-06:00,Light drizzle,22 °c,25 °c,2 km/h from E,3 km/h,0.8 mm,88%,99%,1018 mb,Good
-09:00,Light rain,24 °c,26 °c,5 km/h from ESE,6 km/h,0.3 mm,80%,99%,1018 mb,Excellent
-12:00,Patchy rain possible,26 °c,29 °c,10 km/h from ESE,11 km/h,0.0 mm,71%,81%,1016 mb,Excellent
-15:00,Cloudy,27 °c,29 °c,15 km/h from SE,20 km/h,0.3 mm,70%,72%,1014 mb,Excellent
-18:00,Light rain shower,25 °c,27 °c,16 km/h from SE,23 km/h,0.5 mm,80%,71%,1015 mb,Excellent
-21:00,Patchy rain possible,23 °c,25 °c,12 km/h from SE,18 km/h,0.2 mm,87%,76%,1017 mb,Excellent
-00:00,Overcast,23 °c,25 °c,6 km/h from SE,9 km/h,0.3 mm,81%,100%,1019 mb,Excellent
-03:00,Light rain shower,23 °c,25 °c,6 km/h from E,9 km/h,0.6 mm,84%,100%,1018 mb,Excellent
-06:00,Light rain shower,23 °c,25 °c,5 km/h from ENE,8 km/h,0.6 mm,84%,100%,1019 mb,Excellent
-09:00,Light rain shower,24 °c,26 °c,7 km/h from E,9 km/h,0.3 mm,79%,100%,1020 mb,Excellent
-12:00,Light rain shower,25 °c,27 °c,10 km/h from ESE,12 km/h,0.4 mm,75%,100%,1018 mb,Excellent
-15:00,Light rain shower,26 °c,28 °c,14 km/h from SE,19 km/h,0.7 mm,73%,93%,1015 mb,Excellent
-18:00,Light rain shower,24 °c,26 °c,16 km/h from SE,23 km/h,0.9 mm,79%,83%,1016 mb,Excellent
-21:00,Light rain shower,23 °c,25 °c,13 km/h from SE,19 km/h,0.3 mm,85%,89%,1017 mb,Excellent
-00:00,Patchy rain possible,25 °c,27 °c,7 km/h from ESE,12 km/h,0.2 mm,83%,100%,1017 mb,Excellent
-03:00,Light rain shower,24 °c,26 °c,8 km/h from ESE,12 km/h,0.3 mm,83%,70%,1017 mb,Excellent
-06:00,Light rain shower,24 °c,26 °c,7 km/h from ENE,11 km/h,0.3 mm,83%,77%,1017 mb,Excellent
-09:00,Patchy rain possible,26 °c,28 °c,9 km/h from E,12 km/h,0.2 mm,73%,83%,1019 mb,Excellent
-12:00,Patchy rain possible,28 °c,30 °c,14 km/h from ESE,17 km/h,0.1 mm,64%,61%,1017 mb,Excellent
-15:00,Patchy rain possible,28 °c,30 °c,19 km/h from SE,25 km/h,0.4 mm,65%,61%,1015 mb,Excellent
-18:00,Light rain shower,25 °c,27 °c,18 km/h from SE,25 km/h,0.5 mm,76%,77%,1016 mb,Excellent
-21:00,Patchy rain possible,24 °c,26 °c,12 km/h from ESE,19 km/h,0.2 mm,84%,74%,1018 mb,Excellent
-00:00,Partly cloudy,24 °c,27 °c,9 km/h from SE,13 km/h,0.1 mm,87%,60%,1014 mb,Excellent
-03:00,Light rain shower,24 °c,26 °c,9 km/h from ESE,13 km/h,0.3 mm,87%,81%,1014 mb,Excellent
-06:00,Light rain shower,24 °c,26 °c,8 km/h from E,13 km/h,0.4 mm,85%,85%,1015 mb,Excellent
-09:00,Light rain shower,25 °c,27 °c,6 km/h from E,10 km/h,0.4 mm,79%,87%,1016 mb,Excellent
-12:00,Light rain shower,27 °c,29 °c,6 km/h from E,8 km/h,0.1 mm,73%,75%,1015 mb,Excellent
-15:00,Cloudy,27 °c,29 °c,6 km/h from ESE,8 km/h,0.0 mm,72%,73%,1014 mb,Excellent
-18:00,Cloudy,26 °c,28 °c,9 km/h from SE,14 km/h,0.0 mm,80%,47%,1015 mb,Excellent
-21:00,Partly cloudy,25 °c,27 °c,10 km/h from ESE,16 km/h,0.1 mm,84%,54%,1017 mb,Excellent
-00:00,Cloudy,23 °c,26 °c,11 km/h from SE,17 km/h,0.0 mm,92%,85%,1011 mb,Excellent
-03:00,Cloudy,23 °c,25 °c,10 km/h from SE,14 km/h,0.0 mm,92%,84%,1011 mb,Excellent
-06:00,Cloudy,23 °c,25 °c,9 km/h from SE,13 km/h,0.0 mm,92%,88%,1012 mb,Excellent
-09:00,Overcast,25 °c,27 °c,9 km/h from SE,13 km/h,0.1 mm,83%,75%,1013 mb,Excellent
-12:00,Patchy rain possible,27 °c,29 °c,12 km/h from SSE,15 km/h,0.0 mm,75%,53%,1011 mb,Excellent
-15:00,Partly cloudy,28 °c,31 °c,15 km/h from SSE,19 km/h,0.0 mm,68%,25%,1009 mb,Excellent
-18:00,Partly cloudy,26 °c,28 °c,14 km/h from SE,21 km/h,0.0 mm,78%,13%,1010 mb,Excellent
-21:00,Partly cloudy,24 °c,27 °c,14 km/h from SSE,22 km/h,0.0 mm,86%,26%,1011 mb,Excellent
-00:00,Partly cloudy,23 °c,26 °c,10 km/h from SSE,17 km/h,0.0 mm,91%,35%,1012 mb,Excellent
-03:00,Partly cloudy,23 °c,25 °c,9 km/h from SE,14 km/h,0.0 mm,93%,41%,1011 mb,Excellent
-06:00,Partly cloudy,23 °c,25 °c,8 km/h from SE,12 km/h,0.0 mm,93%,57%,1011 mb,Excellent
-09:00,Cloudy,26 °c,28 °c,10 km/h from SSE,12 km/h,0.1 mm,77%,85%,1013 mb,Excellent
-12:00,Patchy rain possible,28 °c,30 °c,13 km/h from SSE,16 km/h,0.0 mm,66%,83%,1012 mb,Excellent
-15:00,Cloudy,28 °c,30 °c,15 km/h from SSE,20 km/h,0.0 mm,66%,51%,1011 mb,Excellent
-18:00,Partly cloudy,26 °c,28 °c,13 km/h from SE,19 km/h,0.0 mm,73%,36%,1012 mb,Excellent
-21:00,Partly cloudy,25 °c,27 °c,11 km/h from SE,18 km/h,0.0 mm,82%,41%,1014 mb,Excellent
-00:00,Partly cloudy,23 °c,26 °c,11 km/h from SSE,17 km/h,0.0 mm,91%,42%,1011 mb,Excellent
-03:00,Partly cloudy,23 °c,25 °c,7 km/h from SE,11 km/h,0.0 mm,95%,68%,1011 mb,Average
-06:00,Mist,23 °c,25 °c,5 km/h from SSE,7 km/h,0.0 mm,94%,82%,1011 mb,Good
-09:00,Cloudy,25 °c,27 °c,5 km/h from SSE,6 km/h,0.0 mm,84%,91%,1012 mb,Excellent
-12:00,Overcast,27 °c,30 °c,7 km/h from SSE,8 km/h,0.0 mm,74%,87%,1010 mb,Excellent
-15:00,Cloudy,28 °c,30 °c,10 km/h from SSE,13 km/h,0.0 mm,72%,89%,1008 mb,Excellent
-18:00,Overcast,26 °c,29 °c,13 km/h from SSE,19 km/h,0.0 mm,78%,66%,1009 mb,Excellent
-21:00,Partly cloudy,25 °c,27 °c,13 km/h from SSE,19 km/h,0.0 mm,85%,70%,1011 mb,Excellent
-00:00,Partly cloudy,23 °c,25 °c,12 km/h from SE,19 km/h,0.0 mm,92%,33%,1012 mb,Excellent
-03:00,Partly cloudy,22 °c,25 °c,10 km/h from SE,17 km/h,0.0 mm,94%,47%,1011 mb,Average
-06:00,Mist,22 °c,25 °c,10 km/h from SE,15 km/h,0.0 mm,94%,60%,1012 mb,Good
-09:00,Cloudy,26 °c,28 °c,12 km/h from SSE,15 km/h,0.0 mm,76%,64%,1013 mb,Excellent
-12:00,Cloudy,29 °c,31 °c,14 km/h from S,16 km/h,0.0 mm,61%,52%,1011 mb,Excellent
-15:00,Partly cloudy,29 °c,32 °c,14 km/h from SSE,18 km/h,0.0 mm,61%,31%,1009 mb,Excellent
-18:00,Partly cloudy,27 °c,29 °c,15 km/h from SSE,24 km/h,0.0 mm,72%,15%,1010 mb,Excellent
-21:00,Partly cloudy,25 °c,27 °c,15 km/h from SSE,24 km/h,0.0 mm,82%,10%,1011 mb,Excellent
-00:00,Light rain shower,18 °c,18 °c,4 km/h from WNW,6 km/h,1.1 mm,94%,100%,1016 mb,Excellent
-03:00,Light rain,20 °c,20 °c,4 km/h from WNW,5 km/h,0.8 mm,94%,100%,1014 mb,Average
-06:00,Light drizzle,21 °c,21 °c,3 km/h from SSW,5 km/h,1.3 mm,93%,100%,1015 mb,Good
-09:00,Light rain,22 °c,22 °c,4 km/h from SSE,5 km/h,0.6 mm,91%,100%,1015 mb,Excellent
-12:00,Patchy rain possible,24 °c,26 °c,5 km/h from SSE,7 km/h,0.1 mm,88%,83%,1013 mb,Excellent
-15:00,Patchy rain possible,26 °c,29 °c,11 km/h from SE,14 km/h,0.1 mm,78%,72%,1011 mb,Excellent
-18:00,Patchy rain possible,25 °c,27 °c,15 km/h from SE,23 km/h,0.1 mm,83%,71%,1011 mb,Excellent
-21:00,Patchy rain possible,23 °c,26 °c,14 km/h from SE,22 km/h,0.0 mm,91%,52%,1012 mb,Excellent
-00:00,Overcast,18 °c,18 °c,13 km/h from NW,20 km/h,0.0 mm,76%,100%,1019 mb,Excellent
-03:00,Overcast,19 °c,19 °c,12 km/h from NW,17 km/h,0.7 mm,84%,100%,1018 mb,Excellent
-06:00,Light rain shower,19 °c,19 °c,11 km/h from NW,15 km/h,0.6 mm,87%,100%,1019 mb,Excellent
-09:00,Light rain shower,19 °c,19 °c,12 km/h from NW,16 km/h,0.5 mm,86%,100%,1020 mb,Excellent
-12:00,Light rain shower,20 °c,20 °c,11 km/h from NW,15 km/h,0.8 mm,86%,100%,1018 mb,Excellent
-15:00,Light rain shower,20 °c,20 °c,9 km/h from NW,13 km/h,0.8 mm,88%,100%,1016 mb,Average
-18:00,Light drizzle,18 °c,18 °c,7 km/h from NW,10 km/h,0.7 mm,88%,100%,1016 mb,Poor
-21:00,Light drizzle,14 °c,14 °c,6 km/h from WNW,9 km/h,0.2 mm,89%,100%,1017 mb,Good
-00:00,Partly cloudy,22 °c,22 °c,5 km/h from W,8 km/h,0.0 mm,55%,27%,1020 mb,Excellent
-03:00,Partly cloudy,20 °c,20 °c,8 km/h from NW,15 km/h,0.0 mm,59%,25%,1019 mb,Excellent
-06:00,Partly cloudy,20 °c,20 °c,10 km/h from NW,17 km/h,0.0 mm,64%,20%,1019 mb,Excellent
-09:00,Partly cloudy,24 °c,24 °c,13 km/h from NNW,17 km/h,0.0 mm,50%,15%,1020 mb,Excellent
-12:00,Partly cloudy,28 °c,27 °c,15 km/h from ESE,18 km/h,0.0 mm,32%,10%,1018 mb,Excellent
-15:00,Partly cloudy,30 °c,28 °c,13 km/h from NNE,15 km/h,0.0 mm,29%,9%,1016 mb,Excellent
-18:00,Partly cloudy,27 °c,26 °c,11 km/h from ENE,17 km/h,0.0 mm,37%,7%,1017 mb,Excellent
-21:00,Partly cloudy,24 °c,25 °c,5 km/h from NE,8 km/h,0.0 mm,48%,6%,1019 mb,Excellent
-00:00,Partly cloudy,22 °c,25 °c,9 km/h from N,15 km/h,0.0 mm,49%,3%,1019 mb,Excellent
-03:00,Partly cloudy,21 °c,21 °c,10 km/h from NNW,17 km/h,0.0 mm,53%,1%,1018 mb,Excellent
-06:00,Sunny,20 °c,20 °c,11 km/h from NNW,17 km/h,0.0 mm,60%,0%,1019 mb,Excellent
-09:00,Sunny,23 °c,23 °c,16 km/h from NNW,19 km/h,0.0 mm,49%,0%,1019 mb,Excellent
-12:00,Sunny,27 °c,27 °c,16 km/h from ESE,18 km/h,0.0 mm,33%,22%,1017 mb,Excellent
-15:00,Partly cloudy,28 °c,27 °c,14 km/h from NE,18 km/h,0.0 mm,31%,40%,1016 mb,Excellent
-18:00,Partly cloudy,26 °c,26 °c,12 km/h from ENE,17 km/h,0.0 mm,38%,44%,1017 mb,Excellent
-21:00,Partly cloudy,24 °c,25 °c,10 km/h from NE,15 km/h,0.0 mm,46%,67%,1018 mb,Excellent
-00:00,Partly cloudy,18 °c,18 °c,21 km/h from NNE,31 km/h,0.0 mm,57%,61%,1024 mb,Excellent
-03:00,Cloudy,17 °c,17 °c,19 km/h from NNE,27 km/h,0.0 mm,58%,55%,1023 mb,Excellent
-06:00,Partly cloudy,17 °c,17 °c,14 km/h from NNE,20 km/h,0.0 mm,58%,29%,1023 mb,Excellent
-09:00,Partly cloudy,19 °c,19 °c,12 km/h from NNE,15 km/h,0.0 mm,53%,17%,1024 mb,Excellent
-12:00,Partly cloudy,22 °c,22 °c,13 km/h from NE,15 km/h,0.0 mm,47%,12%,1022 mb,Excellent
-15:00,Partly cloudy,24 °c,25 °c,12 km/h from ENE,13 km/h,0.0 mm,45%,9%,1020 mb,Excellent
-18:00,Partly cloudy,22 °c,25 °c,8 km/h from ENE,10 km/h,0.0 mm,53%,7%,1022 mb,Excellent
-21:00,Partly cloudy,21 °c,21 °c,9 km/h from NE,13 km/h,0.0 mm,56%,10%,1024 mb,Excellent
-00:00,Partly cloudy,21 °c,21 °c,10 km/h from WSW,19 km/h,0.0 mm,48%,21%,1021 mb,Excellent
-03:00,Partly cloudy,20 °c,20 °c,12 km/h from NNW,19 km/h,0.0 mm,50%,37%,1020 mb,Excellent
-06:00,Partly cloudy,19 °c,19 °c,12 km/h from NNW,18 km/h,0.0 mm,54%,71%,1021 mb,Excellent
-09:00,Cloudy,19 °c,19 °c,12 km/h from NW,17 km/h,0.0 mm,59%,66%,1023 mb,Excellent
-12:00,Partly cloudy,20 °c,20 °c,10 km/h from NW,15 km/h,0.0 mm,59%,79%,1022 mb,Excellent
-15:00,Overcast,20 °c,20 °c,8 km/h from WNW,12 km/h,0.0 mm,60%,91%,1021 mb,Excellent
-18:00,Overcast,19 °c,19 °c,9 km/h from WNW,14 km/h,0.0 mm,58%,82%,1021 mb,Excellent
-21:00,Cloudy,15 °c,15 °c,9 km/h from NW,15 km/h,0.0 mm,54%,92%,1023 mb,Excellent
-00:00,Partly cloudy,21 °c,21 °c,13 km/h from NNE,23 km/h,0.0 mm,49%,2%,1020 mb,Excellent
-03:00,Partly cloudy,20 °c,20 °c,12 km/h from WSW,19 km/h,0.0 mm,52%,1%,1019 mb,Excellent
-06:00,Sunny,20 °c,20 °c,12 km/h from NNW,18 km/h,0.0 mm,57%,0%,1020 mb,Excellent
-09:00,Sunny,23 °c,23 °c,14 km/h from NNW,18 km/h,0.0 mm,45%,0%,1021 mb,Excellent
-12:00,Sunny,26 °c,26 °c,15 km/h from SE,17 km/h,0.0 mm,33%,2%,1020 mb,Excellent
-15:00,Partly cloudy,28 °c,27 °c,13 km/h from NNE,15 km/h,0.0 mm,33%,4%,1018 mb,Excellent
-18:00,Partly cloudy,25 °c,26 °c,11 km/h from NE,17 km/h,0.0 mm,42%,6%,1019 mb,Excellent
-21:00,Partly cloudy,22 °c,25 °c,9 km/h from NE,15 km/h,0.0 mm,49%,22%,1021 mb,Excellent
-00:00,Cloudy,23 °c,25 °c,10 km/h from NW,17 km/h,0.0 mm,76%,51%,1019 mb,Excellent
-03:00,Partly cloudy,23 °c,25 °c,9 km/h from NNW,15 km/h,0.0 mm,79%,66%,1019 mb,Excellent
-06:00,Cloudy,23 °c,25 °c,9 km/h from NNW,14 km/h,0.0 mm,78%,49%,1020 mb,Excellent
-09:00,Partly cloudy,25 °c,27 °c,13 km/h from ESE,15 km/h,0.0 mm,64%,35%,1021 mb,Excellent
-12:00,Partly cloudy,29 °c,30 °c,15 km/h from NNE,18 km/h,0.0 mm,50%,56%,1019 mb,Excellent
-15:00,Cloudy,30 °c,31 °c,14 km/h from NNE,18 km/h,0.0 mm,48%,41%,1017 mb,Excellent
-18:00,Partly cloudy,27 °c,28 °c,14 km/h from NNE,23 km/h,0.0 mm,53%,29%,1018 mb,Excellent
-21:00,Partly cloudy,25 °c,26 °c,12 km/h from NNE,21 km/h,0.0 mm,60%,29%,1019 mb,Excellent
-00:00,Partly cloudy,23 °c,25 °c,12 km/h from NNE,22 km/h,0.0 mm,59%,19%,1020 mb,Excellent
-03:00,Partly cloudy,22 °c,25 °c,12 km/h from WSW,20 km/h,0.0 mm,64%,18%,1019 mb,Excellent
-06:00,Partly cloudy,22 °c,25 °c,12 km/h from N,20 km/h,0.0 mm,66%,18%,1020 mb,Excellent
-09:00,Partly cloudy,25 °c,26 °c,19 km/h from SE,24 km/h,0.0 mm,51%,20%,1021 mb,Excellent
-12:00,Partly cloudy,29 °c,28 °c,20 km/h from NNE,23 km/h,0.0 mm,40%,22%,1019 mb,Excellent
-15:00,Partly cloudy,29 °c,29 °c,17 km/h from NNE,21 km/h,0.0 mm,40%,22%,1018 mb,Excellent
-18:00,Partly cloudy,26 °c,27 °c,16 km/h from NE,27 km/h,0.0 mm,47%,27%,1019 mb,Excellent
-21:00,Partly cloudy,24 °c,25 °c,15 km/h from NNE,27 km/h,0.0 mm,53%,40%,1020 mb,Excellent
+00:00,Partly cloudy,16 °c,16 °c,8 km/h from NNE,12 km/h,0.0 mm,43%,27%,1022 mb,Excellent,2020-12-22
+03:00,Partly cloudy,16 °c,16 °c,8 km/h from NNE,12 km/h,0.0 mm,43%,31%,1021 mb,Excellent,2020-12-22
+06:00,Partly cloudy,16 °c,16 °c,9 km/h from SW,14 km/h,0.0 mm,46%,42%,1021 mb,Excellent,2020-12-22
+09:00,Partly cloudy,17 °c,17 °c,9 km/h from NNW,12 km/h,0.0 mm,43%,45%,1022 mb,Excellent,2020-12-22
+12:00,Partly cloudy,20 °c,20 °c,8 km/h from ESE,10 km/h,0.0 mm,34%,45%,1019 mb,Excellent,2020-12-22
+15:00,Partly cloudy,21 °c,21 °c,9 km/h from ENE,12 km/h,0.0 mm,33%,81%,1016 mb,Excellent,2020-12-22
+18:00,Overcast,19 °c,19 °c,10 km/h from ESE,14 km/h,0.0 mm,37%,97%,1017 mb,Excellent,2020-12-22
+21:00,Overcast,17 °c,17 °c,10 km/h from SE,15 km/h,0.0 mm,46%,54%,1018 mb,Excellent,2020-12-22
+00:00,Light rain shower,23 °c,26 °c,12 km/h from SSE,18 km/h,0.3 mm,90%,60%,1012 mb,Excellent,2020-12-14
+03:00,Light rain shower,23 °c,25 °c,10 km/h from SE,15 km/h,0.8 mm,92%,71%,1012 mb,Excellent,2020-12-14
+06:00,Light rain shower,23 °c,25 °c,9 km/h from ESE,14 km/h,1.0 mm,93%,78%,1013 mb,Excellent,2020-12-14
+09:00,Light rain shower,25 °c,27 °c,13 km/h from SE,19 km/h,1.4 mm,82%,89%,1015 mb,Excellent,2020-12-14
+12:00,Light rain shower,27 °c,29 °c,18 km/h from SE,28 km/h,2.3 mm,70%,93%,1013 mb,Excellent,2020-12-14
+15:00,Moderate or heavy rain shower,26 °c,28 °c,21 km/h from SE,30 km/h,1.3 mm,70%,89%,1012 mb,Excellent,2020-12-14
+18:00,Light rain shower,24 °c,26 °c,20 km/h from ESE,28 km/h,0.7 mm,78%,90%,1014 mb,Excellent,2020-12-14
+21:00,Light rain shower,22 °c,22 °c,17 km/h from ESE,24 km/h,0.6 mm,83%,97%,1017 mb,Average,2020-12-14
+00:00,Partly cloudy,15 °c,14 °c,16 km/h from NNE,25 km/h,0.0 mm,40%,34%,1026 mb,Excellent,2020-12-21
+03:00,Partly cloudy,14 °c,13 °c,17 km/h from NNE,27 km/h,0.0 mm,40%,24%,1025 mb,Excellent,2020-12-21
+06:00,Partly cloudy,14 °c,12 °c,17 km/h from NNE,26 km/h,0.0 mm,39%,20%,1026 mb,Excellent,2020-12-21
+09:00,Partly cloudy,16 °c,15 °c,19 km/h from NNE,24 km/h,0.0 mm,35%,20%,1026 mb,Excellent,2020-12-21
+12:00,Partly cloudy,19 °c,19 °c,17 km/h from NNE,19 km/h,0.0 mm,32%,20%,1023 mb,Excellent,2020-12-21
+15:00,Partly cloudy,21 °c,21 °c,12 km/h from NNE,13 km/h,0.0 mm,31%,20%,1020 mb,Excellent,2020-12-21
+18:00,Partly cloudy,19 °c,19 °c,10 km/h from NE,15 km/h,0.0 mm,36%,21%,1021 mb,Excellent,2020-12-21
+21:00,Partly cloudy,17 °c,17 °c,9 km/h from NE,15 km/h,0.0 mm,41%,25%,1022 mb,Excellent,2020-12-21
+00:00,Overcast,14 °c,13 °c,12 km/h from WSW,18 km/h,0.0 mm,44%,82%,1025 mb,Excellent,2020-12-19
+03:00,Cloudy,14 °c,13 °c,14 km/h from N,21 km/h,0.0 mm,45%,76%,1024 mb,Excellent,2020-12-19
+06:00,Cloudy,14 °c,12 °c,14 km/h from ESE,22 km/h,0.0 mm,48%,75%,1025 mb,Excellent,2020-12-19
+09:00,Cloudy,14 °c,13 °c,17 km/h from NNE,24 km/h,0.0 mm,46%,56%,1027 mb,Excellent,2020-12-19
+12:00,Partly cloudy,14 °c,13 °c,18 km/h from NNE,24 km/h,0.0 mm,44%,73%,1025 mb,Excellent,2020-12-19
+15:00,Cloudy,15 °c,14 °c,15 km/h from NNE,20 km/h,0.0 mm,45%,70%,1023 mb,Excellent,2020-12-19
+18:00,Partly cloudy,12 °c,12 °c,11 km/h from WSW,17 km/h,0.0 mm,46%,64%,1024 mb,Excellent,2020-12-19
+21:00,Cloudy,8 °c,8 °c,10 km/h from N,17 km/h,0.0 mm,47%,61%,1026 mb,Excellent,2020-12-19
+00:00,Overcast,11 °c,10 °c,10 km/h from NNE,14 km/h,0.0 mm,58%,100%,1023 mb,Excellent,2020-12-16
+03:00,Overcast,12 °c,11 °c,12 km/h from NNE,16 km/h,0.0 mm,60%,100%,1023 mb,Excellent,2020-12-16
+06:00,Overcast,12 °c,10 °c,12 km/h from NNE,16 km/h,0.0 mm,66%,100%,1024 mb,Excellent,2020-12-16
+09:00,Overcast,12 °c,10 °c,12 km/h from NNE,15 km/h,0.0 mm,67%,100%,1025 mb,Excellent,2020-12-16
+12:00,Overcast,13 °c,12 °c,10 km/h from NNE,13 km/h,0.0 mm,64%,100%,1024 mb,Excellent,2020-12-16
+15:00,Overcast,14 °c,13 °c,9 km/h from NNE,12 km/h,0.0 mm,62%,100%,1022 mb,Excellent,2020-12-16
+18:00,Overcast,13 °c,12 °c,7 km/h from NNE,10 km/h,0.0 mm,63%,100%,1022 mb,Excellent,2020-12-16
+21:00,Overcast,9 °c,9 °c,7 km/h from NNE,9 km/h,0.0 mm,62%,100%,1024 mb,Excellent,2020-12-16
+00:00,Overcast,11 °c,11 °c,8 km/h from NNE,10 km/h,0.0 mm,60%,100%,1023 mb,Excellent,2020-12-17
+03:00,Overcast,13 °c,13 °c,8 km/h from NNE,11 km/h,0.0 mm,60%,100%,1022 mb,Excellent,2020-12-17
+06:00,Overcast,13 °c,13 °c,8 km/h from NNE,10 km/h,0.0 mm,61%,100%,1022 mb,Excellent,2020-12-17
+09:00,Overcast,14 °c,13 °c,8 km/h from NNE,10 km/h,0.0 mm,59%,100%,1024 mb,Excellent,2020-12-17
+12:00,Overcast,16 °c,16 °c,7 km/h from NNE,9 km/h,0.0 mm,56%,99%,1022 mb,Excellent,2020-12-17
+15:00,Overcast,18 °c,18 °c,6 km/h from NNE,7 km/h,0.0 mm,55%,99%,1019 mb,Excellent,2020-12-17
+18:00,Overcast,17 °c,17 °c,6 km/h from N,8 km/h,0.0 mm,60%,95%,1020 mb,Excellent,2020-12-17
+21:00,Overcast,16 °c,16 °c,8 km/h from NNE,11 km/h,0.0 mm,63%,88%,1022 mb,Excellent,2020-12-17
+00:00,Partly cloudy,15 °c,15 °c,13 km/h from N,21 km/h,0.0 mm,43%,52%,1027 mb,Excellent,2020-12-20
+03:00,Partly cloudy,15 °c,14 °c,17 km/h from NNE,25 km/h,0.0 mm,44%,65%,1026 mb,Excellent,2020-12-20
+06:00,Cloudy,14 °c,12 °c,18 km/h from NNE,28 km/h,0.0 mm,44%,53%,1026 mb,Excellent,2020-12-20
+09:00,Partly cloudy,15 °c,14 °c,20 km/h from NNE,26 km/h,0.0 mm,39%,45%,1027 mb,Excellent,2020-12-20
+12:00,Partly cloudy,17 °c,17 °c,17 km/h from NNE,21 km/h,0.0 mm,36%,43%,1025 mb,Excellent,2020-12-20
+15:00,Partly cloudy,18 °c,18 °c,12 km/h from NNE,14 km/h,0.0 mm,35%,36%,1022 mb,Excellent,2020-12-20
+18:00,Partly cloudy,18 °c,18 °c,6 km/h from NNE,9 km/h,0.0 mm,41%,35%,1023 mb,Excellent,2020-12-20
+21:00,Partly cloudy,16 °c,16 °c,10 km/h from NNE,16 km/h,0.0 mm,42%,38%,1025 mb,Excellent,2020-12-20
+00:00,Light drizzle,17 °c,17 °c,12 km/h from NE,15 km/h,0.1 mm,81%,100%,1018 mb,Good,2020-12-15
+03:00,Overcast,17 °c,17 °c,11 km/h from NE,15 km/h,0.0 mm,81%,100%,1018 mb,Excellent,2020-12-15
+06:00,Overcast,16 °c,16 °c,10 km/h from ENE,14 km/h,0.0 mm,79%,98%,1020 mb,Excellent,2020-12-15
+09:00,Overcast,16 °c,16 °c,10 km/h from ENE,13 km/h,0.1 mm,78%,99%,1021 mb,Excellent,2020-12-15
+12:00,Patchy rain possible,18 °c,18 °c,8 km/h from ENE,10 km/h,0.0 mm,75%,100%,1020 mb,Excellent,2020-12-15
+15:00,Overcast,19 °c,19 °c,7 km/h from ENE,9 km/h,0.0 mm,73%,100%,1018 mb,Excellent,2020-12-15
+18:00,Overcast,18 °c,18 °c,10 km/h from ENE,14 km/h,0.1 mm,74%,91%,1020 mb,Excellent,2020-12-15
+21:00,Patchy rain possible,17 °c,17 °c,10 km/h from NE,13 km/h,0.0 mm,73%,94%,1022 mb,Excellent,2020-12-15
+00:00,Overcast,13 °c,13 °c,10 km/h from NNE,14 km/h,0.0 mm,53%,100%,1022 mb,Excellent,2020-12-18
+03:00,Overcast,13 °c,12 °c,10 km/h from NNE,14 km/h,0.0 mm,53%,92%,1022 mb,Excellent,2020-12-18
+06:00,Overcast,13 °c,12 °c,11 km/h from NNE,15 km/h,0.0 mm,54%,91%,1022 mb,Excellent,2020-12-18
+09:00,Overcast,13 °c,12 °c,13 km/h from NNE,18 km/h,0.0 mm,54%,96%,1024 mb,Excellent,2020-12-18
+12:00,Overcast,14 °c,13 °c,14 km/h from N,18 km/h,0.0 mm,52%,80%,1023 mb,Excellent,2020-12-18
+15:00,Cloudy,15 °c,15 °c,13 km/h from NNE,17 km/h,0.0 mm,50%,61%,1021 mb,Excellent,2020-12-18
+18:00,Partly cloudy,15 °c,14 °c,12 km/h from NNE,18 km/h,0.0 mm,53%,58%,1022 mb,Excellent,2020-12-18
+21:00,Partly cloudy,14 °c,13 °c,13 km/h from NNE,19 km/h,0.0 mm,50%,73%,1024 mb,Excellent,2020-12-18
+00:00,Overcast,21 °c,21 °c,10 km/h from SE,15 km/h,0.1 mm,91%,84%,1012 mb,Excellent,2020-12-13
+03:00,Patchy rain possible,21 °c,21 °c,7 km/h from SE,10 km/h,0.1 mm,92%,86%,1011 mb,Excellent,2020-12-13
+06:00,Patchy rain possible,21 °c,21 °c,4 km/h from ESE,6 km/h,0.0 mm,92%,95%,1012 mb,Excellent,2020-12-13
+09:00,Overcast,22 °c,22 °c,3 km/h from E,4 km/h,0.0 mm,88%,92%,1013 mb,Excellent,2020-12-13
+12:00,Overcast,24 °c,26 °c,3 km/h from ENE,3 km/h,0.0 mm,77%,90%,1011 mb,Excellent,2020-12-13
+15:00,Overcast,25 °c,27 °c,4 km/h from E,4 km/h,0.1 mm,73%,74%,1010 mb,Excellent,2020-12-13
+18:00,Patchy rain possible,24 °c,26 °c,5 km/h from E,7 km/h,0.0 mm,80%,57%,1011 mb,Excellent,2020-12-13
+21:00,Partly cloudy,23 °c,25 °c,7 km/h from ESE,11 km/h,0.3 mm,87%,68%,1013 mb,Excellent,2020-12-13
+00:00,Cloudy,21 °c,21 °c,8 km/h from SE,12 km/h,0.0 mm,84%,70%,1015 mb,Excellent,2020-12-12
+03:00,Cloudy,21 °c,21 °c,7 km/h from E,10 km/h,0.1 mm,84%,90%,1015 mb,Excellent,2020-12-12
+06:00,Patchy rain possible,21 °c,21 °c,6 km/h from ENE,10 km/h,0.0 mm,80%,99%,1015 mb,Excellent,2020-12-12
+09:00,Overcast,21 °c,21 °c,6 km/h from E,8 km/h,0.0 mm,73%,94%,1016 mb,Excellent,2020-12-12
+12:00,Overcast,23 °c,25 °c,6 km/h from SE,7 km/h,0.0 mm,69%,88%,1014 mb,Excellent,2020-12-12
+15:00,Cloudy,24 °c,26 °c,9 km/h from SE,12 km/h,0.0 mm,67%,67%,1011 mb,Excellent,2020-12-12
+18:00,Partly cloudy,22 °c,25 °c,11 km/h from SE,16 km/h,0.0 mm,78%,64%,1011 mb,Excellent,2020-12-12
+21:00,Cloudy,21 °c,21 °c,9 km/h from SSE,14 km/h,0.0 mm,90%,66%,1012 mb,Excellent,2020-12-12
+00:00,Partly cloudy,20 °c,20 °c,10 km/h from SSE,14 km/h,0.0 mm,74%,9%,1016 mb,Excellent,2020-12-11
+03:00,Partly cloudy,19 °c,19 °c,6 km/h from SSE,9 km/h,0.0 mm,78%,10%,1015 mb,Excellent,2020-12-11
+06:00,Partly cloudy,19 °c,19 °c,4 km/h from E,6 km/h,0.0 mm,80%,28%,1016 mb,Excellent,2020-12-11
+09:00,Partly cloudy,21 °c,21 °c,3 km/h from E,4 km/h,0.0 mm,69%,67%,1017 mb,Excellent,2020-12-11
+12:00,Cloudy,24 °c,25 °c,7 km/h from SSE,8 km/h,0.0 mm,60%,72%,1014 mb,Excellent,2020-12-11
+15:00,Cloudy,25 °c,26 °c,11 km/h from SSE,13 km/h,0.0 mm,59%,26%,1012 mb,Excellent,2020-12-11
+18:00,Partly cloudy,23 °c,25 °c,12 km/h from SSE,17 km/h,0.0 mm,69%,13%,1013 mb,Excellent,2020-12-11
+21:00,Partly cloudy,21 °c,21 °c,11 km/h from SE,17 km/h,0.0 mm,82%,58%,1015 mb,Excellent,2020-12-11
+00:00,Partly cloudy,19 °c,19 °c,5 km/h from ESE,7 km/h,0.0 mm,77%,24%,1017 mb,Excellent,2020-12-10
+03:00,Partly cloudy,18 °c,18 °c,4 km/h from ENE,6 km/h,0.0 mm,79%,23%,1017 mb,Excellent,2020-12-10
+06:00,Partly cloudy,17 °c,17 °c,4 km/h from SW,6 km/h,0.0 mm,78%,30%,1018 mb,Excellent,2020-12-10
+09:00,Partly cloudy,19 °c,19 °c,3 km/h from NNW,4 km/h,0.0 mm,68%,59%,1019 mb,Excellent,2020-12-10
+12:00,Cloudy,23 °c,24 °c,2 km/h from SSE,2 km/h,0.0 mm,54%,63%,1017 mb,Excellent,2020-12-10
+15:00,Partly cloudy,25 °c,26 °c,4 km/h from SE,4 km/h,0.0 mm,49%,24%,1015 mb,Excellent,2020-12-10
+18:00,Partly cloudy,24 °c,25 °c,6 km/h from S,8 km/h,0.0 mm,56%,5%,1015 mb,Excellent,2020-12-10
+21:00,Partly cloudy,21 °c,21 °c,9 km/h from SSE,14 km/h,0.0 mm,66%,12%,1016 mb,Excellent,2020-12-10
+00:00,Partly cloudy,19 °c,19 °c,6 km/h from SE,8 km/h,0.0 mm,68%,4%,1019 mb,Excellent,2020-12-9
+03:00,Partly cloudy,19 °c,19 °c,6 km/h from ESE,7 km/h,0.0 mm,78%,2%,1018 mb,Excellent,2020-12-9
+06:00,Partly cloudy,18 °c,18 °c,5 km/h from NE,5 km/h,0.0 mm,80%,3%,1018 mb,Excellent,2020-12-9
+09:00,Partly cloudy,20 °c,20 °c,3 km/h from NE,3 km/h,0.0 mm,66%,5%,1019 mb,Excellent,2020-12-9
+12:00,Partly cloudy,24 °c,25 °c,4 km/h from ESE,4 km/h,0.0 mm,51%,7%,1016 mb,Excellent,2020-12-9
+15:00,Partly cloudy,25 °c,26 °c,8 km/h from SE,9 km/h,0.0 mm,49%,7%,1014 mb,Excellent,2020-12-9
+18:00,Partly cloudy,22 °c,25 °c,10 km/h from SSE,14 km/h,0.0 mm,59%,9%,1015 mb,Excellent,2020-12-9
+21:00,Partly cloudy,20 °c,20 °c,9 km/h from SSE,13 km/h,0.0 mm,69%,15%,1016 mb,Excellent,2020-12-9
+00:00,Partly cloudy,15 °c,15 °c,13 km/h from NNE,21 km/h,0.0 mm,59%,21%,1023 mb,Excellent,2020-12-5
+03:00,Partly cloudy,14 °c,13 °c,13 km/h from NNE,21 km/h,0.0 mm,62%,21%,1023 mb,Excellent,2020-12-5
+06:00,Partly cloudy,14 °c,13 °c,11 km/h from NNE,18 km/h,0.0 mm,65%,14%,1024 mb,Excellent,2020-12-5
+09:00,Partly cloudy,17 °c,16 °c,12 km/h from NNE,15 km/h,0.0 mm,53%,10%,1025 mb,Excellent,2020-12-5
+12:00,Partly cloudy,20 °c,20 °c,10 km/h from NNE,12 km/h,0.0 mm,44%,7%,1022 mb,Excellent,2020-12-5
+15:00,Partly cloudy,23 °c,25 °c,6 km/h from NE,7 km/h,0.0 mm,42%,3%,1019 mb,Excellent,2020-12-5
+18:00,Partly cloudy,23 °c,25 °c,3 km/h from SE,4 km/h,0.0 mm,48%,2%,1020 mb,Excellent,2020-12-5
+21:00,Partly cloudy,19 °c,19 °c,7 km/h from SSE,9 km/h,0.0 mm,59%,2%,1021 mb,Excellent,2020-12-5
+00:00,Partly cloudy,20 °c,20 °c,6 km/h from ESE,10 km/h,0.0 mm,60%,41%,1023 mb,Excellent,2020-12-8
+03:00,Partly cloudy,18 °c,18 °c,11 km/h from N,17 km/h,0.0 mm,60%,79%,1022 mb,Excellent,2020-12-8
+06:00,Overcast,17 °c,17 °c,14 km/h from NNE,21 km/h,0.0 mm,60%,100%,1023 mb,Excellent,2020-12-8
+09:00,Overcast,19 °c,19 °c,15 km/h from NNE,19 km/h,0.0 mm,53%,75%,1024 mb,Excellent,2020-12-8
+12:00,Cloudy,22 °c,23 °c,11 km/h from NNE,13 km/h,0.0 mm,43%,36%,1021 mb,Excellent,2020-12-8
+15:00,Partly cloudy,24 °c,25 °c,6 km/h from N,7 km/h,0.0 mm,40%,16%,1018 mb,Excellent,2020-12-8
+18:00,Partly cloudy,23 °c,25 °c,3 km/h from NNE,4 km/h,0.0 mm,47%,9%,1018 mb,Excellent,2020-12-8
+21:00,Partly cloudy,21 °c,21 °c,5 km/h from ESE,8 km/h,0.0 mm,55%,11%,1019 mb,Excellent,2020-12-8
+00:00,Clear,17 °c,17 °c,7 km/h from SSE,8 km/h,0.0 mm,69%,2%,1021 mb,Excellent,2020-12-6
+03:00,Partly cloudy,17 °c,17 °c,4 km/h from ENE,4 km/h,0.0 mm,72%,3%,1021 mb,Excellent,2020-12-6
+06:00,Partly cloudy,15 °c,16 °c,4 km/h from N,5 km/h,0.0 mm,75%,3%,1022 mb,Excellent,2020-12-6
+09:00,Partly cloudy,18 °c,18 °c,5 km/h from WSW,6 km/h,0.0 mm,62%,4%,1023 mb,Excellent,2020-12-6
+12:00,Partly cloudy,22 °c,23 °c,3 km/h from S,4 km/h,0.0 mm,48%,5%,1020 mb,Excellent,2020-12-6
+15:00,Partly cloudy,23 °c,25 °c,4 km/h from ESE,4 km/h,0.0 mm,44%,7%,1018 mb,Excellent,2020-12-6
+18:00,Partly cloudy,22 °c,22 °c,3 km/h from ESE,4 km/h,0.0 mm,50%,9%,1019 mb,Excellent,2020-12-6
+21:00,Partly cloudy,19 °c,19 °c,6 km/h from SE,10 km/h,0.0 mm,66%,12%,1021 mb,Excellent,2020-12-6
+00:00,Partly cloudy,17 °c,17 °c,4 km/h from ENE,6 km/h,0.0 mm,72%,32%,1022 mb,Excellent,2020-12-7
+03:00,Partly cloudy,16 °c,16 °c,4 km/h from WSW,6 km/h,0.0 mm,76%,27%,1021 mb,Excellent,2020-12-7
+06:00,Partly cloudy,15 °c,15 °c,8 km/h from NNW,13 km/h,0.0 mm,76%,59%,1022 mb,Excellent,2020-12-7
+09:00,Cloudy,18 °c,18 °c,10 km/h from NNW,14 km/h,0.0 mm,61%,85%,1023 mb,Excellent,2020-12-7
+12:00,Overcast,21 °c,21 °c,10 km/h from SE,12 km/h,0.0 mm,50%,87%,1021 mb,Excellent,2020-12-7
+15:00,Cloudy,22 °c,24 °c,8 km/h from NE,9 km/h,0.0 mm,48%,56%,1019 mb,Excellent,2020-12-7
+18:00,Partly cloudy,21 °c,21 °c,3 km/h from SSE,4 km/h,0.0 mm,55%,41%,1020 mb,Excellent,2020-12-7
+21:00,Partly cloudy,19 °c,19 °c,3 km/h from ENE,4 km/h,0.0 mm,61%,46%,1022 mb,Excellent,2020-12-7
+00:00,Cloudy,17 °c,17 °c,19 km/h from NNE,29 km/h,0.0 mm,58%,92%,1024 mb,Excellent,2020-12-4
+03:00,Overcast,16 °c,16 °c,18 km/h from NNE,26 km/h,0.0 mm,60%,97%,1023 mb,Excellent,2020-12-4
+06:00,Overcast,15 °c,14 °c,16 km/h from NNE,23 km/h,0.0 mm,60%,64%,1024 mb,Excellent,2020-12-4
+09:00,Partly cloudy,16 °c,16 °c,15 km/h from NNE,19 km/h,0.0 mm,55%,70%,1025 mb,Excellent,2020-12-4
+12:00,Cloudy,20 °c,20 °c,11 km/h from NE,13 km/h,0.0 mm,47%,38%,1022 mb,Excellent,2020-12-4
+15:00,Partly cloudy,22 °c,22 °c,8 km/h from NE,9 km/h,0.0 mm,44%,23%,1020 mb,Excellent,2020-12-4
+18:00,Partly cloudy,20 °c,20 °c,7 km/h from ENE,10 km/h,0.0 mm,51%,25%,1020 mb,Excellent,2020-12-4
+21:00,Partly cloudy,18 °c,18 °c,4 km/h from E,6 km/h,0.0 mm,59%,38%,1022 mb,Excellent,2020-12-4
+00:00,Partly cloudy,19 °c,19 °c,12 km/h from NNE,18 km/h,0.0 mm,58%,58%,1022 mb,Excellent,2020-12-3
+03:00,Partly cloudy,18 °c,18 °c,11 km/h from NNE,16 km/h,0.0 mm,61%,64%,1022 mb,Excellent,2020-12-3
+06:00,Cloudy,18 °c,18 °c,12 km/h from NNE,17 km/h,0.0 mm,62%,60%,1023 mb,Excellent,2020-12-3
+09:00,Partly cloudy,18 °c,18 °c,14 km/h from NNE,20 km/h,0.0 mm,60%,45%,1024 mb,Excellent,2020-12-3
+12:00,Partly cloudy,19 °c,19 °c,12 km/h from NNE,14 km/h,0.0 mm,55%,42%,1022 mb,Excellent,2020-12-3
+15:00,Partly cloudy,21 °c,21 °c,5 km/h from NE,6 km/h,0.0 mm,50%,53%,1020 mb,Excellent,2020-12-3
+18:00,Partly cloudy,21 °c,21 °c,6 km/h from NNE,9 km/h,0.0 mm,55%,86%,1021 mb,Excellent,2020-12-3
+21:00,Overcast,19 °c,19 °c,13 km/h from NE,19 km/h,0.0 mm,57%,86%,1023 mb,Excellent,2020-12-3
+00:00,Partly cloudy,20 °c,20 °c,9 km/h from NE,12 km/h,0.0 mm,55%,19%,1024 mb,Excellent,2020-12-1
+03:00,Partly cloudy,19 °c,19 °c,9 km/h from NNE,12 km/h,0.0 mm,55%,34%,1023 mb,Excellent,2020-12-1
+06:00,Partly cloudy,18 °c,18 °c,8 km/h from NNE,12 km/h,0.0 mm,56%,53%,1023 mb,Excellent,2020-12-1
+09:00,Partly cloudy,20 °c,20 °c,10 km/h from NNE,12 km/h,0.0 mm,52%,81%,1024 mb,Excellent,2020-12-1
+12:00,Overcast,21 °c,21 °c,9 km/h from NNE,11 km/h,0.0 mm,49%,69%,1022 mb,Excellent,2020-12-1
+15:00,Partly cloudy,22 °c,24 °c,7 km/h from ENE,8 km/h,0.0 mm,49%,69%,1020 mb,Excellent,2020-12-1
+18:00,Cloudy,21 °c,21 °c,5 km/h from ESE,7 km/h,0.0 mm,53%,59%,1021 mb,Excellent,2020-12-1
+21:00,Partly cloudy,21 °c,21 °c,4 km/h from SE,5 km/h,0.0 mm,58%,60%,1022 mb,Excellent,2020-12-1
+00:00,Cloudy,19 °c,19 °c,7 km/h from NE,10 km/h,0.0 mm,58%,77%,1022 mb,Excellent,2020-12-2
+03:00,Cloudy,19 °c,19 °c,6 km/h from NE,8 km/h,0.0 mm,58%,93%,1021 mb,Excellent,2020-12-2
+06:00,Overcast,18 °c,18 °c,6 km/h from NNE,8 km/h,0.0 mm,58%,97%,1021 mb,Excellent,2020-12-2
+09:00,Overcast,19 °c,19 °c,7 km/h from NNE,9 km/h,0.0 mm,54%,69%,1023 mb,Excellent,2020-12-2
+12:00,Partly cloudy,21 °c,21 °c,8 km/h from NNE,9 km/h,0.0 mm,48%,73%,1021 mb,Excellent,2020-12-2
+15:00,Cloudy,23 °c,25 °c,8 km/h from NNE,9 km/h,0.0 mm,47%,94%,1019 mb,Excellent,2020-12-2
+18:00,Overcast,22 °c,22 °c,7 km/h from NNE,10 km/h,0.0 mm,52%,72%,1020 mb,Excellent,2020-12-2
+21:00,Partly cloudy,21 °c,21 °c,8 km/h from NE,12 km/h,0.0 mm,56%,59%,1022 mb,Excellent,2020-12-2
+00:00,Partly cloudy,18 °c,18 °c,7 km/h from NNE,10 km/h,0.0 mm,56%,14%,1024 mb,Excellent,2020-11-30
+03:00,Partly cloudy,18 °c,18 °c,11 km/h from N,17 km/h,0.0 mm,57%,15%,1023 mb,Excellent,2020-11-30
+06:00,Partly cloudy,18 °c,18 °c,14 km/h from N,22 km/h,0.0 mm,55%,19%,1024 mb,Excellent,2020-11-30
+09:00,Partly cloudy,19 °c,19 °c,17 km/h from N,21 km/h,0.0 mm,47%,21%,1025 mb,Excellent,2020-11-30
+12:00,Partly cloudy,22 °c,22 °c,15 km/h from NNE,18 km/h,0.0 mm,42%,18%,1023 mb,Excellent,2020-11-30
+15:00,Partly cloudy,24 °c,25 °c,10 km/h from NNE,12 km/h,0.0 mm,40%,19%,1020 mb,Excellent,2020-11-30
+18:00,Partly cloudy,22 °c,25 °c,8 km/h from NE,11 km/h,0.0 mm,47%,37%,1022 mb,Excellent,2020-11-30
+21:00,Partly cloudy,21 °c,21 °c,8 km/h from NE,12 km/h,0.0 mm,52%,44%,1023 mb,Excellent,2020-11-30
+00:00,Partly cloudy,18 °c,18 °c,21 km/h from NNE,31 km/h,0.0 mm,57%,61%,1024 mb,Excellent,2020-11-29
+03:00,Cloudy,17 °c,17 °c,19 km/h from NNE,27 km/h,0.0 mm,58%,55%,1023 mb,Excellent,2020-11-29
+06:00,Partly cloudy,17 °c,17 °c,14 km/h from NNE,20 km/h,0.0 mm,58%,29%,1023 mb,Excellent,2020-11-29
+09:00,Partly cloudy,19 °c,19 °c,12 km/h from NNE,15 km/h,0.0 mm,53%,17%,1024 mb,Excellent,2020-11-29
+12:00,Partly cloudy,22 °c,22 °c,13 km/h from NE,15 km/h,0.0 mm,47%,12%,1022 mb,Excellent,2020-11-29
+15:00,Partly cloudy,24 °c,25 °c,12 km/h from ENE,13 km/h,0.0 mm,45%,9%,1020 mb,Excellent,2020-11-29
+18:00,Partly cloudy,22 °c,25 °c,8 km/h from ENE,10 km/h,0.0 mm,53%,7%,1022 mb,Excellent,2020-11-29
+21:00,Partly cloudy,21 °c,21 °c,9 km/h from NE,13 km/h,0.0 mm,56%,10%,1024 mb,Excellent,2020-11-29
+00:00,Overcast,22 °c,25 °c,9 km/h from ENE,13 km/h,0.2 mm,71%,89%,1021 mb,Excellent,2020-11-28
+03:00,Light rain shower,21 °c,21 °c,13 km/h from NE,18 km/h,0.1 mm,67%,72%,1021 mb,Excellent,2020-11-28
+06:00,Cloudy,19 °c,19 °c,12 km/h from NE,17 km/h,0.0 mm,67%,62%,1023 mb,Excellent,2020-11-28
+09:00,Partly cloudy,21 °c,21 °c,13 km/h from NNE,15 km/h,0.0 mm,60%,57%,1024 mb,Excellent,2020-11-28
+12:00,Partly cloudy,24 °c,26 °c,11 km/h from NNE,12 km/h,0.0 mm,53%,36%,1022 mb,Excellent,2020-11-28
+15:00,Partly cloudy,26 °c,26 °c,10 km/h from ENE,12 km/h,0.0 mm,50%,72%,1020 mb,Excellent,2020-11-28
+18:00,Overcast,24 °c,25 °c,11 km/h from ENE,15 km/h,0.0 mm,56%,81%,1021 mb,Excellent,2020-11-28
+21:00,Cloudy,22 °c,22 °c,9 km/h from NE,13 km/h,0.0 mm,64%,80%,1023 mb,Excellent,2020-11-28
+00:00,Cloudy,23 °c,25 °c,9 km/h from SE,13 km/h,0.1 mm,90%,60%,1018 mb,Excellent,2020-11-26
+03:00,Light rain shower,22 °c,25 °c,7 km/h from ESE,10 km/h,0.3 mm,91%,72%,1017 mb,Excellent,2020-11-26
+06:00,Light rain shower,22 °c,25 °c,6 km/h from ENE,9 km/h,0.5 mm,90%,72%,1018 mb,Excellent,2020-11-26
+09:00,Light rain shower,24 °c,26 °c,9 km/h from E,11 km/h,0.4 mm,79%,86%,1020 mb,Excellent,2020-11-26
+12:00,Light rain shower,26 °c,28 °c,13 km/h from ESE,17 km/h,1.2 mm,71%,66%,1018 mb,Excellent,2020-11-26
+15:00,Light rain shower,26 °c,28 °c,15 km/h from SE,22 km/h,1.2 mm,71%,55%,1016 mb,Excellent,2020-11-26
+18:00,Light rain shower,24 °c,26 °c,14 km/h from SE,21 km/h,1.0 mm,78%,72%,1018 mb,Excellent,2020-11-26
+21:00,Patchy rain possible,23 °c,25 °c,8 km/h from SSE,12 km/h,0.3 mm,85%,52%,1019 mb,Excellent,2020-11-26
+00:00,Partly cloudy,23 °c,25 °c,5 km/h from SSE,8 km/h,0.0 mm,81%,80%,1020 mb,Excellent,2020-11-27
+03:00,Overcast,23 °c,25 °c,5 km/h from SE,7 km/h,0.0 mm,82%,54%,1019 mb,Excellent,2020-11-27
+06:00,Partly cloudy,23 °c,25 °c,3 km/h from SE,5 km/h,0.0 mm,82%,26%,1021 mb,Excellent,2020-11-27
+09:00,Partly cloudy,25 °c,27 °c,7 km/h from E,8 km/h,0.0 mm,69%,43%,1022 mb,Excellent,2020-11-27
+12:00,Partly cloudy,27 °c,29 °c,11 km/h from E,13 km/h,0.0 mm,57%,43%,1020 mb,Excellent,2020-11-27
+15:00,Partly cloudy,28 °c,29 °c,12 km/h from ESE,14 km/h,0.0 mm,55%,28%,1018 mb,Excellent,2020-11-27
+18:00,Partly cloudy,25 °c,27 °c,13 km/h from SE,17 km/h,0.0 mm,65%,14%,1019 mb,Excellent,2020-11-27
+21:00,Partly cloudy,23 °c,25 °c,11 km/h from S,16 km/h,0.0 mm,75%,17%,1021 mb,Excellent,2020-11-27
+00:00,Patchy rain possible,25 °c,27 °c,7 km/h from ESE,12 km/h,0.2 mm,83%,100%,1017 mb,Excellent,2020-11-23
+03:00,Light rain shower,24 °c,26 °c,8 km/h from ESE,12 km/h,0.3 mm,83%,70%,1017 mb,Excellent,2020-11-23
+06:00,Light rain shower,24 °c,26 °c,7 km/h from ENE,11 km/h,0.3 mm,83%,77%,1017 mb,Excellent,2020-11-23
+09:00,Patchy rain possible,26 °c,28 °c,9 km/h from E,12 km/h,0.2 mm,73%,83%,1019 mb,Excellent,2020-11-23
+12:00,Patchy rain possible,28 °c,30 °c,14 km/h from ESE,17 km/h,0.1 mm,64%,61%,1017 mb,Excellent,2020-11-23
+15:00,Patchy rain possible,28 °c,30 °c,19 km/h from SE,25 km/h,0.4 mm,65%,61%,1015 mb,Excellent,2020-11-23
+18:00,Light rain shower,25 °c,27 °c,18 km/h from SE,25 km/h,0.5 mm,76%,77%,1016 mb,Excellent,2020-11-23
+21:00,Patchy rain possible,24 °c,26 °c,12 km/h from ESE,19 km/h,0.2 mm,84%,74%,1018 mb,Excellent,2020-11-23
+00:00,Overcast,23 °c,25 °c,6 km/h from SSE,9 km/h,0.0 mm,84%,100%,1018 mb,Excellent,2020-11-25
+03:00,Overcast,22 °c,25 °c,3 km/h from ESE,4 km/h,0.5 mm,86%,100%,1017 mb,Average,2020-11-25
+06:00,Light drizzle,22 °c,25 °c,2 km/h from E,3 km/h,0.8 mm,88%,99%,1018 mb,Good,2020-11-25
+09:00,Light rain,24 °c,26 °c,5 km/h from ESE,6 km/h,0.3 mm,80%,99%,1018 mb,Excellent,2020-11-25
+12:00,Patchy rain possible,26 °c,29 °c,10 km/h from ESE,11 km/h,0.0 mm,71%,81%,1016 mb,Excellent,2020-11-25
+15:00,Cloudy,27 °c,29 °c,15 km/h from SE,20 km/h,0.3 mm,70%,72%,1014 mb,Excellent,2020-11-25
+18:00,Light rain shower,25 °c,27 °c,16 km/h from SE,23 km/h,0.5 mm,80%,71%,1015 mb,Excellent,2020-11-25
+21:00,Patchy rain possible,23 °c,25 °c,12 km/h from SE,18 km/h,0.2 mm,87%,76%,1017 mb,Excellent,2020-11-25
+00:00,Partly cloudy,23 °c,26 °c,10 km/h from SSE,17 km/h,0.0 mm,91%,35%,1012 mb,Excellent,2020-11-21
+03:00,Partly cloudy,23 °c,25 °c,9 km/h from SE,14 km/h,0.0 mm,93%,41%,1011 mb,Excellent,2020-11-21
+06:00,Partly cloudy,23 °c,25 °c,8 km/h from SE,12 km/h,0.0 mm,93%,57%,1011 mb,Excellent,2020-11-21
+09:00,Cloudy,26 °c,28 °c,10 km/h from SSE,12 km/h,0.1 mm,77%,85%,1013 mb,Excellent,2020-11-21
+12:00,Patchy rain possible,28 °c,30 °c,13 km/h from SSE,16 km/h,0.0 mm,66%,83%,1012 mb,Excellent,2020-11-21
+15:00,Cloudy,28 °c,30 °c,15 km/h from SSE,20 km/h,0.0 mm,66%,51%,1011 mb,Excellent,2020-11-21
+18:00,Partly cloudy,26 °c,28 °c,13 km/h from SE,19 km/h,0.0 mm,73%,36%,1012 mb,Excellent,2020-11-21
+21:00,Partly cloudy,25 °c,27 °c,11 km/h from SE,18 km/h,0.0 mm,82%,41%,1014 mb,Excellent,2020-11-21
+00:00,Overcast,23 °c,25 °c,6 km/h from SE,9 km/h,0.3 mm,81%,100%,1019 mb,Excellent,2020-11-24
+03:00,Light rain shower,23 °c,25 °c,6 km/h from E,9 km/h,0.6 mm,84%,100%,1018 mb,Excellent,2020-11-24
+06:00,Light rain shower,23 °c,25 °c,5 km/h from ENE,8 km/h,0.6 mm,84%,100%,1019 mb,Excellent,2020-11-24
+09:00,Light rain shower,24 °c,26 °c,7 km/h from E,9 km/h,0.3 mm,79%,100%,1020 mb,Excellent,2020-11-24
+12:00,Light rain shower,25 °c,27 °c,10 km/h from ESE,12 km/h,0.4 mm,75%,100%,1018 mb,Excellent,2020-11-24
+15:00,Light rain shower,26 °c,28 °c,14 km/h from SE,19 km/h,0.7 mm,73%,93%,1015 mb,Excellent,2020-11-24
+18:00,Light rain shower,24 °c,26 °c,16 km/h from SE,23 km/h,0.9 mm,79%,83%,1016 mb,Excellent,2020-11-24
+21:00,Light rain shower,23 °c,25 °c,13 km/h from SE,19 km/h,0.3 mm,85%,89%,1017 mb,Excellent,2020-11-24
+00:00,Partly cloudy,24 °c,27 °c,9 km/h from SE,13 km/h,0.1 mm,87%,60%,1014 mb,Excellent,2020-11-22
+03:00,Light rain shower,24 °c,26 °c,9 km/h from ESE,13 km/h,0.3 mm,87%,81%,1014 mb,Excellent,2020-11-22
+06:00,Light rain shower,24 °c,26 °c,8 km/h from E,13 km/h,0.4 mm,85%,85%,1015 mb,Excellent,2020-11-22
+09:00,Light rain shower,25 °c,27 °c,6 km/h from E,10 km/h,0.4 mm,79%,87%,1016 mb,Excellent,2020-11-22
+12:00,Light rain shower,27 °c,29 °c,6 km/h from E,8 km/h,0.1 mm,73%,75%,1015 mb,Excellent,2020-11-22
+15:00,Cloudy,27 °c,29 °c,6 km/h from ESE,8 km/h,0.0 mm,72%,73%,1014 mb,Excellent,2020-11-22
+18:00,Cloudy,26 °c,28 °c,9 km/h from SE,14 km/h,0.0 mm,80%,47%,1015 mb,Excellent,2020-11-22
+21:00,Partly cloudy,25 °c,27 °c,10 km/h from ESE,16 km/h,0.1 mm,84%,54%,1017 mb,Excellent,2020-11-22
+00:00,Partly cloudy,23 °c,26 °c,11 km/h from SSE,17 km/h,0.0 mm,91%,42%,1011 mb,Excellent,2020-11-19
+03:00,Partly cloudy,23 °c,25 °c,7 km/h from SE,11 km/h,0.0 mm,95%,68%,1011 mb,Average,2020-11-19
+06:00,Mist,23 °c,25 °c,5 km/h from SSE,7 km/h,0.0 mm,94%,82%,1011 mb,Good,2020-11-19
+09:00,Cloudy,25 °c,27 °c,5 km/h from SSE,6 km/h,0.0 mm,84%,91%,1012 mb,Excellent,2020-11-19
+12:00,Overcast,27 °c,30 °c,7 km/h from SSE,8 km/h,0.0 mm,74%,87%,1010 mb,Excellent,2020-11-19
+15:00,Cloudy,28 °c,30 °c,10 km/h from SSE,13 km/h,0.0 mm,72%,89%,1008 mb,Excellent,2020-11-19
+18:00,Overcast,26 °c,29 °c,13 km/h from SSE,19 km/h,0.0 mm,78%,66%,1009 mb,Excellent,2020-11-19
+21:00,Partly cloudy,25 °c,27 °c,13 km/h from SSE,19 km/h,0.0 mm,85%,70%,1011 mb,Excellent,2020-11-19
+00:00,Light rain shower,18 °c,18 °c,4 km/h from WNW,6 km/h,1.1 mm,94%,100%,1016 mb,Excellent,2020-11-17
+03:00,Light rain,20 °c,20 °c,4 km/h from WNW,5 km/h,0.8 mm,94%,100%,1014 mb,Average,2020-11-17
+06:00,Light drizzle,21 °c,21 °c,3 km/h from SSW,5 km/h,1.3 mm,93%,100%,1015 mb,Good,2020-11-17
+09:00,Light rain,22 °c,22 °c,4 km/h from SSE,5 km/h,0.6 mm,91%,100%,1015 mb,Excellent,2020-11-17
+12:00,Patchy rain possible,24 °c,26 °c,5 km/h from SSE,7 km/h,0.1 mm,88%,83%,1013 mb,Excellent,2020-11-17
+15:00,Patchy rain possible,26 °c,29 °c,11 km/h from SE,14 km/h,0.1 mm,78%,72%,1011 mb,Excellent,2020-11-17
+18:00,Patchy rain possible,25 °c,27 °c,15 km/h from SE,23 km/h,0.1 mm,83%,71%,1011 mb,Excellent,2020-11-17
+21:00,Patchy rain possible,23 °c,26 °c,14 km/h from SE,22 km/h,0.0 mm,91%,52%,1012 mb,Excellent,2020-11-17
+00:00,Cloudy,23 °c,26 °c,11 km/h from SE,17 km/h,0.0 mm,92%,85%,1011 mb,Excellent,2020-11-20
+03:00,Cloudy,23 °c,25 °c,10 km/h from SE,14 km/h,0.0 mm,92%,84%,1011 mb,Excellent,2020-11-20
+06:00,Cloudy,23 °c,25 °c,9 km/h from SE,13 km/h,0.0 mm,92%,88%,1012 mb,Excellent,2020-11-20
+09:00,Overcast,25 °c,27 °c,9 km/h from SE,13 km/h,0.1 mm,83%,75%,1013 mb,Excellent,2020-11-20
+12:00,Patchy rain possible,27 °c,29 °c,12 km/h from SSE,15 km/h,0.0 mm,75%,53%,1011 mb,Excellent,2020-11-20
+15:00,Partly cloudy,28 °c,31 °c,15 km/h from SSE,19 km/h,0.0 mm,68%,25%,1009 mb,Excellent,2020-11-20
+18:00,Partly cloudy,26 °c,28 °c,14 km/h from SE,21 km/h,0.0 mm,78%,13%,1010 mb,Excellent,2020-11-20
+21:00,Partly cloudy,24 °c,27 °c,14 km/h from SSE,22 km/h,0.0 mm,86%,26%,1011 mb,Excellent,2020-11-20
+00:00,Partly cloudy,23 °c,25 °c,12 km/h from SE,19 km/h,0.0 mm,92%,33%,1012 mb,Excellent,2020-11-18
+03:00,Partly cloudy,22 °c,25 °c,10 km/h from SE,17 km/h,0.0 mm,94%,47%,1011 mb,Average,2020-11-18
+06:00,Mist,22 °c,25 °c,10 km/h from SE,15 km/h,0.0 mm,94%,60%,1012 mb,Good,2020-11-18
+09:00,Cloudy,26 °c,28 °c,12 km/h from SSE,15 km/h,0.0 mm,76%,64%,1013 mb,Excellent,2020-11-18
+12:00,Cloudy,29 °c,31 °c,14 km/h from S,16 km/h,0.0 mm,61%,52%,1011 mb,Excellent,2020-11-18
+15:00,Partly cloudy,29 °c,32 °c,14 km/h from SSE,18 km/h,0.0 mm,61%,31%,1009 mb,Excellent,2020-11-18
+18:00,Partly cloudy,27 °c,29 °c,15 km/h from SSE,24 km/h,0.0 mm,72%,15%,1010 mb,Excellent,2020-11-18
+21:00,Partly cloudy,25 °c,27 °c,15 km/h from SSE,24 km/h,0.0 mm,82%,10%,1011 mb,Excellent,2020-11-18
+00:00,Partly cloudy,23 °c,25 °c,1 km/h from W,3 km/h,0.0 mm,50%,69%,1022 mb,Excellent,2020-11-12
+03:00,Cloudy,22 °c,22 °c,6 km/h from NNW,10 km/h,0.0 mm,52%,66%,1021 mb,Excellent,2020-11-12
+06:00,Partly cloudy,21 °c,21 °c,10 km/h from NNW,16 km/h,0.0 mm,57%,52%,1021 mb,Excellent,2020-11-12
+09:00,Partly cloudy,24 °c,24 °c,10 km/h from NNW,14 km/h,0.0 mm,47%,34%,1022 mb,Excellent,2020-11-12
+12:00,Partly cloudy,27 °c,27 °c,10 km/h from SE,11 km/h,0.0 mm,34%,23%,1021 mb,Excellent,2020-11-12
+15:00,Partly cloudy,29 °c,28 °c,7 km/h from NNE,8 km/h,0.0 mm,32%,22%,1019 mb,Excellent,2020-11-12
+18:00,Partly cloudy,26 °c,26 °c,5 km/h from SW,8 km/h,0.0 mm,41%,24%,1019 mb,Excellent,2020-11-12
+21:00,Partly cloudy,24 °c,25 °c,6 km/h from NNW,10 km/h,0.0 mm,49%,29%,1020 mb,Excellent,2020-11-12
+00:00,Cloudy,23 °c,25 °c,7 km/h from WSW,12 km/h,0.0 mm,49%,69%,1018 mb,Excellent,2020-11-15
+03:00,Cloudy,22 °c,22 °c,11 km/h from ESE,16 km/h,0.4 mm,57%,91%,1018 mb,Average,2020-11-15
+06:00,Light drizzle,20 °c,20 °c,15 km/h from WSW,21 km/h,0.5 mm,71%,100%,1019 mb,Poor,2020-11-15
+09:00,Light drizzle,20 °c,20 °c,16 km/h from NNW,23 km/h,0.2 mm,73%,100%,1021 mb,Good,2020-11-15
+12:00,Patchy rain possible,21 °c,21 °c,17 km/h from NW,23 km/h,0.1 mm,69%,100%,1019 mb,Excellent,2020-11-15
+15:00,Patchy rain possible,20 °c,20 °c,17 km/h from NW,24 km/h,0.2 mm,72%,100%,1017 mb,Average,2020-11-15
+18:00,Light drizzle,19 °c,19 °c,14 km/h from NW,21 km/h,0.1 mm,73%,100%,1018 mb,Good,2020-11-15
+21:00,Patchy rain possible,15 °c,15 °c,13 km/h from NW,19 km/h,0.1 mm,75%,100%,1019 mb,Excellent,2020-11-15
+00:00,Partly cloudy,21 °c,21 °c,10 km/h from WSW,19 km/h,0.0 mm,48%,21%,1021 mb,Excellent,2020-11-11
+03:00,Partly cloudy,20 °c,20 °c,12 km/h from NNW,19 km/h,0.0 mm,50%,37%,1020 mb,Excellent,2020-11-11
+06:00,Partly cloudy,19 °c,19 °c,12 km/h from NNW,18 km/h,0.0 mm,54%,71%,1021 mb,Excellent,2020-11-11
+09:00,Cloudy,19 °c,19 °c,12 km/h from NW,17 km/h,0.0 mm,59%,66%,1023 mb,Excellent,2020-11-11
+12:00,Partly cloudy,20 °c,20 °c,10 km/h from NW,15 km/h,0.0 mm,59%,79%,1022 mb,Excellent,2020-11-11
+15:00,Overcast,20 °c,20 °c,8 km/h from WNW,12 km/h,0.0 mm,60%,91%,1021 mb,Excellent,2020-11-11
+18:00,Overcast,19 °c,19 °c,9 km/h from WNW,14 km/h,0.0 mm,58%,82%,1021 mb,Excellent,2020-11-11
+21:00,Cloudy,15 °c,15 °c,9 km/h from NW,15 km/h,0.0 mm,54%,92%,1023 mb,Excellent,2020-11-11
+00:00,Partly cloudy,21 °c,21 °c,13 km/h from NNE,23 km/h,0.0 mm,49%,2%,1020 mb,Excellent,2020-11-10
+03:00,Partly cloudy,20 °c,20 °c,12 km/h from WSW,19 km/h,0.0 mm,52%,1%,1019 mb,Excellent,2020-11-10
+06:00,Sunny,20 °c,20 °c,12 km/h from NNW,18 km/h,0.0 mm,57%,0%,1020 mb,Excellent,2020-11-10
+09:00,Sunny,23 °c,23 °c,14 km/h from NNW,18 km/h,0.0 mm,45%,0%,1021 mb,Excellent,2020-11-10
+12:00,Sunny,26 °c,26 °c,15 km/h from SE,17 km/h,0.0 mm,33%,2%,1020 mb,Excellent,2020-11-10
+15:00,Partly cloudy,28 °c,27 °c,13 km/h from NNE,15 km/h,0.0 mm,33%,4%,1018 mb,Excellent,2020-11-10
+18:00,Partly cloudy,25 °c,26 °c,11 km/h from NE,17 km/h,0.0 mm,42%,6%,1019 mb,Excellent,2020-11-10
+21:00,Partly cloudy,22 °c,25 °c,9 km/h from NE,15 km/h,0.0 mm,49%,22%,1021 mb,Excellent,2020-11-10
+00:00,Partly cloudy,22 °c,25 °c,14 km/h from NNE,26 km/h,0.0 mm,53%,24%,1021 mb,Excellent,2020-11-9
+03:00,Partly cloudy,21 °c,21 °c,13 km/h from N,24 km/h,0.0 mm,55%,23%,1020 mb,Excellent,2020-11-9
+06:00,Partly cloudy,21 °c,21 °c,14 km/h from N,24 km/h,0.0 mm,54%,18%,1021 mb,Excellent,2020-11-9
+09:00,Partly cloudy,24 °c,24 °c,20 km/h from NNE,26 km/h,0.0 mm,41%,10%,1021 mb,Excellent,2020-11-9
+12:00,Partly cloudy,27 °c,27 °c,20 km/h from NNE,23 km/h,0.0 mm,32%,6%,1019 mb,Excellent,2020-11-9
+15:00,Partly cloudy,28 °c,27 °c,15 km/h from NNE,19 km/h,0.0 mm,33%,5%,1017 mb,Excellent,2020-11-9
+18:00,Partly cloudy,25 °c,26 °c,13 km/h from NE,21 km/h,0.0 mm,41%,5%,1018 mb,Excellent,2020-11-9
+21:00,Partly cloudy,22 °c,25 °c,13 km/h from NNE,23 km/h,0.0 mm,46%,5%,1020 mb,Excellent,2020-11-9
+00:00,Cloudy,23 °c,25 °c,10 km/h from NW,17 km/h,0.0 mm,76%,51%,1019 mb,Excellent,2020-11-7
+03:00,Partly cloudy,23 °c,25 °c,9 km/h from NNW,15 km/h,0.0 mm,79%,66%,1019 mb,Excellent,2020-11-7
+06:00,Cloudy,23 °c,25 °c,9 km/h from NNW,14 km/h,0.0 mm,78%,49%,1020 mb,Excellent,2020-11-7
+09:00,Partly cloudy,25 °c,27 °c,13 km/h from ESE,15 km/h,0.0 mm,64%,35%,1021 mb,Excellent,2020-11-7
+12:00,Partly cloudy,29 °c,30 °c,15 km/h from NNE,18 km/h,0.0 mm,50%,56%,1019 mb,Excellent,2020-11-7
+15:00,Cloudy,30 °c,31 °c,14 km/h from NNE,18 km/h,0.0 mm,48%,41%,1017 mb,Excellent,2020-11-7
+18:00,Partly cloudy,27 °c,28 °c,14 km/h from NNE,23 km/h,0.0 mm,53%,29%,1018 mb,Excellent,2020-11-7
+21:00,Partly cloudy,25 °c,26 °c,12 km/h from NNE,21 km/h,0.0 mm,60%,29%,1019 mb,Excellent,2020-11-7
+00:00,Cloudy,23 °c,25 °c,6 km/h from SSE,8 km/h,0.0 mm,78%,76%,1018 mb,Excellent,2020-11-6
+03:00,Cloudy,23 °c,25 °c,4 km/h from SE,5 km/h,0.0 mm,79%,61%,1017 mb,Excellent,2020-11-6
+06:00,Partly cloudy,23 °c,25 °c,3 km/h from ENE,4 km/h,0.0 mm,77%,38%,1018 mb,Excellent,2020-11-6
+09:00,Partly cloudy,26 °c,28 °c,5 km/h from NNE,6 km/h,0.0 mm,63%,59%,1020 mb,Excellent,2020-11-6
+12:00,Cloudy,29 °c,30 °c,6 km/h from NNE,8 km/h,0.0 mm,52%,91%,1018 mb,Excellent,2020-11-6
+15:00,Overcast,29 °c,30 °c,6 km/h from SW,8 km/h,0.0 mm,50%,78%,1016 mb,Excellent,2020-11-6
+18:00,Cloudy,27 °c,29 °c,6 km/h from NNW,9 km/h,0.0 mm,61%,48%,1017 mb,Excellent,2020-11-6
+21:00,Partly cloudy,25 °c,27 °c,5 km/h from WSW,7 km/h,0.0 mm,73%,37%,1019 mb,Excellent,2020-11-6
+00:00,Cloudy,22 °c,22 °c,6 km/h from S,10 km/h,0.0 mm,71%,75%,1017 mb,Excellent,2020-11-5
+03:00,Cloudy,21 °c,21 °c,3 km/h from ENE,4 km/h,0.0 mm,74%,74%,1017 mb,Excellent,2020-11-5
+06:00,Cloudy,21 °c,21 °c,4 km/h from NE,5 km/h,0.0 mm,75%,91%,1017 mb,Excellent,2020-11-5
+09:00,Overcast,22 °c,25 °c,4 km/h from NE,5 km/h,0.0 mm,70%,100%,1018 mb,Excellent,2020-11-5
+12:00,Overcast,23 °c,25 °c,2 km/h from S,2 km/h,0.0 mm,65%,84%,1017 mb,Excellent,2020-11-5
+15:00,Cloudy,24 °c,25 °c,2 km/h from SW,2 km/h,0.0 mm,67%,90%,1015 mb,Excellent,2020-11-5
+18:00,Overcast,23 °c,25 °c,3 km/h from S,3 km/h,0.0 mm,73%,94%,1016 mb,Excellent,2020-11-5
+21:00,Overcast,22 °c,25 °c,3 km/h from SSE,4 km/h,0.0 mm,80%,69%,1017 mb,Excellent,2020-11-5
+00:00,Overcast,21 °c,21 °c,16 km/h from NNE,24 km/h,0.0 mm,62%,66%,1019 mb,Excellent,2020-11-3
+03:00,Partly cloudy,21 °c,21 °c,14 km/h from NNE,21 km/h,0.0 mm,61%,53%,1018 mb,Excellent,2020-11-3
+06:00,Partly cloudy,21 °c,21 °c,12 km/h from NNE,18 km/h,0.0 mm,61%,56%,1019 mb,Excellent,2020-11-3
+09:00,Partly cloudy,22 °c,23 °c,15 km/h from NNE,20 km/h,0.0 mm,56%,54%,1020 mb,Excellent,2020-11-3
+12:00,Partly cloudy,24 °c,26 °c,17 km/h from NNE,20 km/h,0.0 mm,50%,66%,1018 mb,Excellent,2020-11-3
+15:00,Cloudy,24 °c,26 °c,15 km/h from NE,20 km/h,0.0 mm,52%,77%,1016 mb,Excellent,2020-11-3
+18:00,Cloudy,23 °c,25 °c,18 km/h from NE,28 km/h,0.0 mm,55%,64%,1018 mb,Excellent,2020-11-3
+21:00,Partly cloudy,21 °c,21 °c,18 km/h from NE,27 km/h,0.0 mm,57%,75%,1019 mb,Excellent,2020-11-3
+00:00,Overcast,18 °c,18 °c,13 km/h from NW,20 km/h,0.0 mm,76%,100%,1019 mb,Excellent,2020-11-16
+03:00,Overcast,19 °c,19 °c,12 km/h from NW,17 km/h,0.7 mm,84%,100%,1018 mb,Excellent,2020-11-16
+06:00,Light rain shower,19 °c,19 °c,11 km/h from NW,15 km/h,0.6 mm,87%,100%,1019 mb,Excellent,2020-11-16
+09:00,Light rain shower,19 °c,19 °c,12 km/h from NW,16 km/h,0.5 mm,86%,100%,1020 mb,Excellent,2020-11-16
+12:00,Light rain shower,20 °c,20 °c,11 km/h from NW,15 km/h,0.8 mm,86%,100%,1018 mb,Excellent,2020-11-16
+15:00,Light rain shower,20 °c,20 °c,9 km/h from NW,13 km/h,0.8 mm,88%,100%,1016 mb,Average,2020-11-16
+18:00,Light drizzle,18 °c,18 °c,7 km/h from NW,10 km/h,0.7 mm,88%,100%,1016 mb,Poor,2020-11-16
+21:00,Light drizzle,14 °c,14 °c,6 km/h from WNW,9 km/h,0.2 mm,89%,100%,1017 mb,Good,2020-11-16
+00:00,Patchy rain possible,19 °c,19 °c,5 km/h from NNW,7 km/h,0.0 mm,88%,100%,1018 mb,Excellent,2020-10-31
+03:00,Overcast,22 °c,22 °c,6 km/h from NNW,8 km/h,0.2 mm,90%,100%,1018 mb,Average,2020-10-31
+06:00,Light drizzle,22 °c,22 °c,6 km/h from NW,9 km/h,0.3 mm,90%,100%,1018 mb,Poor,2020-10-31
+09:00,Light drizzle,23 °c,25 °c,7 km/h from NW,9 km/h,0.1 mm,84%,92%,1019 mb,Good,2020-10-31
+12:00,Cloudy,25 °c,27 °c,8 km/h from NW,9 km/h,0.0 mm,74%,87%,1018 mb,Excellent,2020-10-31
+15:00,Cloudy,26 °c,28 °c,6 km/h from WNW,8 km/h,0.0 mm,71%,77%,1015 mb,Excellent,2020-10-31
+18:00,Cloudy,24 °c,26 °c,6 km/h from WNW,8 km/h,0.0 mm,78%,85%,1016 mb,Excellent,2020-10-31
+21:00,Overcast,20 °c,20 °c,3 km/h from W,5 km/h,0.0 mm,81%,76%,1017 mb,Excellent,2020-10-31
+00:00,Partly cloudy,23 °c,25 °c,12 km/h from NNE,22 km/h,0.0 mm,59%,19%,1020 mb,Excellent,2020-11-8
+03:00,Partly cloudy,22 °c,25 °c,12 km/h from WSW,20 km/h,0.0 mm,64%,18%,1019 mb,Excellent,2020-11-8
+06:00,Partly cloudy,22 °c,25 °c,12 km/h from N,20 km/h,0.0 mm,66%,18%,1020 mb,Excellent,2020-11-8
+09:00,Partly cloudy,25 °c,26 °c,19 km/h from SE,24 km/h,0.0 mm,51%,20%,1021 mb,Excellent,2020-11-8
+12:00,Partly cloudy,29 °c,28 °c,20 km/h from NNE,23 km/h,0.0 mm,40%,22%,1019 mb,Excellent,2020-11-8
+15:00,Partly cloudy,29 °c,29 °c,17 km/h from NNE,21 km/h,0.0 mm,40%,22%,1018 mb,Excellent,2020-11-8
+18:00,Partly cloudy,26 °c,27 °c,16 km/h from NE,27 km/h,0.0 mm,47%,27%,1019 mb,Excellent,2020-11-8
+21:00,Partly cloudy,24 °c,25 °c,15 km/h from NNE,27 km/h,0.0 mm,53%,40%,1020 mb,Excellent,2020-11-8
+00:00,Partly cloudy,22 °c,25 °c,9 km/h from N,15 km/h,0.0 mm,49%,3%,1019 mb,Excellent,2020-11-14
+03:00,Partly cloudy,21 °c,21 °c,10 km/h from NNW,17 km/h,0.0 mm,53%,1%,1018 mb,Excellent,2020-11-14
+06:00,Sunny,20 °c,20 °c,11 km/h from NNW,17 km/h,0.0 mm,60%,0%,1019 mb,Excellent,2020-11-14
+09:00,Sunny,23 °c,23 °c,16 km/h from NNW,19 km/h,0.0 mm,49%,0%,1019 mb,Excellent,2020-11-14
+12:00,Sunny,27 °c,27 °c,16 km/h from ESE,18 km/h,0.0 mm,33%,22%,1017 mb,Excellent,2020-11-14
+15:00,Partly cloudy,28 °c,27 °c,14 km/h from NE,18 km/h,0.0 mm,31%,40%,1016 mb,Excellent,2020-11-14
+18:00,Partly cloudy,26 °c,26 °c,12 km/h from ENE,17 km/h,0.0 mm,38%,44%,1017 mb,Excellent,2020-11-14
+21:00,Partly cloudy,24 °c,25 °c,10 km/h from NE,15 km/h,0.0 mm,46%,67%,1018 mb,Excellent,2020-11-14
+00:00,Cloudy,20 °c,20 °c,15 km/h from NNE,22 km/h,0.0 mm,58%,82%,1019 mb,Excellent,2020-11-4
+03:00,Cloudy,20 °c,20 °c,11 km/h from NNE,16 km/h,0.0 mm,59%,43%,1018 mb,Excellent,2020-11-4
+06:00,Partly cloudy,20 °c,20 °c,10 km/h from NNE,14 km/h,0.0 mm,60%,70%,1019 mb,Excellent,2020-11-4
+09:00,Overcast,21 °c,21 °c,12 km/h from NNE,15 km/h,0.0 mm,57%,94%,1019 mb,Excellent,2020-11-4
+12:00,Overcast,23 °c,25 °c,12 km/h from NNE,14 km/h,0.0 mm,54%,98%,1018 mb,Excellent,2020-11-4
+15:00,Overcast,22 °c,25 °c,11 km/h from NE,14 km/h,0.0 mm,57%,100%,1016 mb,Excellent,2020-11-4
+18:00,Overcast,21 °c,21 °c,8 km/h from NNE,11 km/h,0.0 mm,60%,100%,1016 mb,Excellent,2020-11-4
+21:00,Overcast,21 °c,21 °c,5 km/h from NE,8 km/h,0.0 mm,63%,76%,1018 mb,Excellent,2020-11-4
+00:00,Overcast,25 °c,27 °c,11 km/h from SSE,15 km/h,0.0 mm,83%,81%,1016 mb,Excellent,2020-11-2
+03:00,Cloudy,25 °c,27 °c,6 km/h from SSE,9 km/h,0.0 mm,84%,84%,1016 mb,Excellent,2020-11-2
+06:00,Overcast,25 °c,27 °c,6 km/h from SE,8 km/h,0.0 mm,84%,77%,1016 mb,Excellent,2020-11-2
+09:00,Cloudy,26 °c,28 °c,6 km/h from SSE,8 km/h,0.0 mm,75%,62%,1018 mb,Excellent,2020-11-2
+12:00,Partly cloudy,29 °c,31 °c,5 km/h from SSE,6 km/h,0.0 mm,63%,68%,1016 mb,Excellent,2020-11-2
+15:00,Cloudy,28 °c,30 °c,8 km/h from ESE,11 km/h,1.1 mm,69%,89%,1014 mb,Excellent,2020-11-2
+18:00,Light rain shower,25 °c,27 °c,16 km/h from ENE,23 km/h,2.1 mm,80%,99%,1016 mb,Excellent,2020-11-2
+21:00,Light rain shower,22 °c,25 °c,20 km/h from NE,28 km/h,3.0 mm,83%,100%,1018 mb,Excellent,2020-11-2
+00:00,Partly cloudy,22 °c,25 °c,4 km/h from WNW,6 km/h,0.0 mm,89%,47%,1017 mb,Excellent,2020-11-1
+03:00,Partly cloudy,22 °c,25 °c,2 km/h from WNW,3 km/h,0.0 mm,89%,47%,1016 mb,Excellent,2020-11-1
+06:00,Partly cloudy,22 °c,25 °c,3 km/h from NW,5 km/h,0.0 mm,87%,82%,1017 mb,Excellent,2020-11-1
+09:00,Overcast,23 °c,25 °c,4 km/h from SW,5 km/h,0.1 mm,84%,100%,1018 mb,Excellent,2020-11-1
+12:00,Patchy rain possible,24 °c,26 °c,4 km/h from SSW,5 km/h,0.0 mm,80%,89%,1016 mb,Excellent,2020-11-1
+15:00,Cloudy,26 °c,28 °c,8 km/h from SSE,9 km/h,0.0 mm,73%,61%,1013 mb,Excellent,2020-11-1
+18:00,Partly cloudy,25 °c,27 °c,11 km/h from SE,16 km/h,0.0 mm,80%,51%,1014 mb,Excellent,2020-11-1
+21:00,Partly cloudy,23 °c,26 °c,10 km/h from SSE,17 km/h,0.0 mm,88%,42%,1016 mb,Excellent,2020-11-1
+00:00,Partly cloudy,22 °c,22 °c,5 km/h from W,8 km/h,0.0 mm,55%,27%,1020 mb,Excellent,2020-11-13
+03:00,Partly cloudy,20 °c,20 °c,8 km/h from NW,15 km/h,0.0 mm,59%,25%,1019 mb,Excellent,2020-11-13
+06:00,Partly cloudy,20 °c,20 °c,10 km/h from NW,17 km/h,0.0 mm,64%,20%,1019 mb,Excellent,2020-11-13
+09:00,Partly cloudy,24 °c,24 °c,13 km/h from NNW,17 km/h,0.0 mm,50%,15%,1020 mb,Excellent,2020-11-13
+12:00,Partly cloudy,28 °c,27 °c,15 km/h from ESE,18 km/h,0.0 mm,32%,10%,1018 mb,Excellent,2020-11-13
+15:00,Partly cloudy,30 °c,28 °c,13 km/h from NNE,15 km/h,0.0 mm,29%,9%,1016 mb,Excellent,2020-11-13
+18:00,Partly cloudy,27 °c,26 °c,11 km/h from ENE,17 km/h,0.0 mm,37%,7%,1017 mb,Excellent,2020-11-13
+21:00,Partly cloudy,24 °c,25 °c,5 km/h from NE,8 km/h,0.0 mm,48%,6%,1019 mb,Excellent,2020-11-13
+00:00,Overcast,23 °c,25 °c,10 km/h from NW,17 km/h,0.0 mm,84%,58%,1014 mb,Excellent,2020-10-27
+03:00,Partly cloudy,22 °c,25 °c,11 km/h from NW,18 km/h,0.0 mm,88%,37%,1013 mb,Excellent,2020-10-27
+06:00,Partly cloudy,22 °c,25 °c,11 km/h from NW,17 km/h,0.0 mm,87%,37%,1014 mb,Excellent,2020-10-27
+09:00,Partly cloudy,26 °c,28 °c,10 km/h from NNW,13 km/h,0.0 mm,73%,33%,1014 mb,Excellent,2020-10-27
+12:00,Partly cloudy,30 °c,33 °c,8 km/h from SE,9 km/h,0.0 mm,57%,38%,1012 mb,Excellent,2020-10-27
+15:00,Partly cloudy,31 °c,34 °c,8 km/h from E,10 km/h,0.0 mm,53%,60%,1010 mb,Excellent,2020-10-27
+18:00,Cloudy,29 °c,31 °c,13 km/h from SE,19 km/h,0.0 mm,67%,33%,1011 mb,Excellent,2020-10-27
+21:00,Partly cloudy,26 °c,28 °c,11 km/h from SSE,16 km/h,0.0 mm,76%,70%,1013 mb,Excellent,2020-10-27
+00:00,Patchy rain possible,22 °c,25 °c,11 km/h from NW,17 km/h,0.1 mm,75%,97%,1014 mb,Excellent,2020-10-26
+03:00,Patchy rain possible,22 °c,22 °c,14 km/h from NW,22 km/h,0.0 mm,79%,99%,1013 mb,Excellent,2020-10-26
+06:00,Overcast,21 °c,21 °c,13 km/h from NW,19 km/h,0.0 mm,84%,100%,1014 mb,Excellent,2020-10-26
+09:00,Overcast,22 °c,22 °c,11 km/h from NNW,15 km/h,0.3 mm,86%,100%,1015 mb,Average,2020-10-26
+12:00,Light drizzle,22 °c,22 °c,9 km/h from NNW,13 km/h,1.3 mm,89%,100%,1014 mb,Good,2020-10-26
+15:00,Light rain,22 °c,22 °c,9 km/h from NW,13 km/h,1.7 mm,90%,97%,1012 mb,Excellent,2020-10-26
+18:00,Light rain,22 °c,22 °c,9 km/h from WNW,14 km/h,1.8 mm,90%,82%,1013 mb,Excellent,2020-10-26
+21:00,Patchy light rain,22 °c,22 °c,9 km/h from WNW,15 km/h,0.6 mm,90%,73%,1015 mb,Excellent,2020-10-26
+00:00,Partly cloudy,23 °c,25 °c,6 km/h from WSW,10 km/h,0.0 mm,60%,17%,1015 mb,Excellent,2020-10-25
+03:00,Partly cloudy,21 °c,21 °c,8 km/h from NNW,14 km/h,0.0 mm,63%,40%,1015 mb,Excellent,2020-10-25
+06:00,Partly cloudy,21 °c,21 °c,11 km/h from NW,18 km/h,0.0 mm,66%,83%,1015 mb,Excellent,2020-10-25
+09:00,Overcast,21 °c,21 °c,13 km/h from NW,19 km/h,0.0 mm,67%,100%,1016 mb,Excellent,2020-10-25
+12:00,Overcast,22 °c,25 °c,13 km/h from NW,18 km/h,0.0 mm,65%,99%,1014 mb,Excellent,2020-10-25
+15:00,Overcast,24 °c,26 °c,12 km/h from NW,15 km/h,0.0 mm,60%,81%,1012 mb,Excellent,2020-10-25
+18:00,Cloudy,24 °c,25 °c,10 km/h from NW,15 km/h,0.0 mm,62%,56%,1013 mb,Excellent,2020-10-25
+21:00,Partly cloudy,23 °c,25 °c,9 km/h from NW,15 km/h,0.0 mm,65%,83%,1014 mb,Excellent,2020-10-25
+00:00,Partly cloudy,22 °c,25 °c,8 km/h from WSW,14 km/h,0.0 mm,65%,21%,1016 mb,Excellent,2020-10-22
+03:00,Partly cloudy,21 °c,21 °c,9 km/h from NNW,15 km/h,0.0 mm,71%,13%,1014 mb,Excellent,2020-10-22
+06:00,Partly cloudy,21 °c,21 °c,9 km/h from NW,13 km/h,0.0 mm,75%,10%,1015 mb,Excellent,2020-10-22
+09:00,Partly cloudy,24 °c,25 °c,12 km/h from NNW,14 km/h,0.0 mm,60%,11%,1016 mb,Excellent,2020-10-22
+12:00,Partly cloudy,28 °c,28 °c,16 km/h from N,18 km/h,0.0 mm,44%,10%,1014 mb,Excellent,2020-10-22
+15:00,Partly cloudy,28 °c,28 °c,17 km/h from SE,22 km/h,0.0 mm,40%,14%,1012 mb,Excellent,2020-10-22
+18:00,Partly cloudy,25 °c,26 °c,19 km/h from NNE,34 km/h,0.0 mm,43%,11%,1014 mb,Excellent,2020-10-22
+21:00,Partly cloudy,23 °c,25 °c,17 km/h from NNE,34 km/h,0.0 mm,44%,8%,1016 mb,Excellent,2020-10-22
+00:00,Light rain shower,22 °c,22 °c,13 km/h from WSW,19 km/h,0.4 mm,79%,100%,1018 mb,Excellent,2020-10-30
+03:00,Light rain shower,21 °c,21 °c,11 km/h from NNW,16 km/h,0.3 mm,83%,100%,1017 mb,Average,2020-10-30
+06:00,Light drizzle,21 °c,21 °c,10 km/h from NNW,15 km/h,0.6 mm,86%,100%,1018 mb,Good,2020-10-30
+09:00,Light rain,22 °c,22 °c,9 km/h from NW,13 km/h,0.3 mm,83%,100%,1020 mb,Excellent,2020-10-30
+12:00,Patchy rain possible,23 °c,25 °c,9 km/h from NW,13 km/h,0.1 mm,81%,100%,1018 mb,Excellent,2020-10-30
+15:00,Patchy rain possible,23 °c,25 °c,10 km/h from NW,13 km/h,0.1 mm,83%,100%,1017 mb,Excellent,2020-10-30
+18:00,Patchy rain possible,23 °c,25 °c,8 km/h from NW,11 km/h,0.0 mm,87%,100%,1018 mb,Excellent,2020-10-30
+21:00,Overcast,22 °c,25 °c,7 km/h from NW,10 km/h,0.2 mm,88%,100%,1019 mb,Average,2020-10-30
+00:00,Cloudy,25 °c,27 °c,17 km/h from NNE,28 km/h,0.0 mm,63%,92%,1013 mb,Excellent,2020-10-29
+03:00,Overcast,24 °c,26 °c,21 km/h from NNE,33 km/h,0.0 mm,64%,100%,1013 mb,Excellent,2020-10-29
+06:00,Overcast,23 °c,25 °c,23 km/h from NNE,36 km/h,1.1 mm,72%,100%,1014 mb,Excellent,2020-10-29
+09:00,Light rain,23 °c,25 °c,25 km/h from NNE,36 km/h,0.6 mm,72%,100%,1016 mb,Excellent,2020-10-29
+12:00,Overcast,24 °c,26 °c,25 km/h from NNE,35 km/h,0.0 mm,68%,100%,1016 mb,Excellent,2020-10-29
+15:00,Overcast,23 °c,25 °c,18 km/h from WSW,27 km/h,0.2 mm,74%,100%,1014 mb,Average,2020-10-29
+18:00,Light drizzle,22 °c,25 °c,15 km/h from SE,23 km/h,0.4 mm,77%,100%,1016 mb,Poor,2020-10-29
+21:00,Light drizzle,22 °c,22 °c,13 km/h from N,20 km/h,0.7 mm,78%,100%,1018 mb,Good,2020-10-29
+00:00,Patchy rain possible,20 °c,20 °c,12 km/h from NNW,18 km/h,0.2 mm,82%,100%,1017 mb,Average,2020-10-20
+03:00,Light drizzle,20 °c,20 °c,11 km/h from NNW,17 km/h,0.1 mm,83%,100%,1017 mb,Good,2020-10-20
+06:00,Patchy rain possible,20 °c,20 °c,13 km/h from NW,19 km/h,0.3 mm,83%,100%,1017 mb,Average,2020-10-20
+09:00,Light drizzle,20 °c,20 °c,15 km/h from NW,23 km/h,0.1 mm,81%,100%,1019 mb,Good,2020-10-20
+12:00,Overcast,20 °c,20 °c,15 km/h from NW,23 km/h,1.2 mm,86%,100%,1018 mb,Excellent,2020-10-20
+15:00,Light rain,19 °c,19 °c,16 km/h from NW,24 km/h,1.2 mm,88%,100%,1016 mb,Excellent,2020-10-20
+18:00,Light rain,17 °c,17 °c,16 km/h from NW,24 km/h,1.0 mm,88%,100%,1017 mb,Excellent,2020-10-20
+21:00,Light rain,12 °c,12 °c,14 km/h from NW,23 km/h,0.4 mm,87%,100%,1019 mb,Excellent,2020-10-20
+00:00,Cloudy,19 °c,19 °c,11 km/h from NNW,17 km/h,0.0 mm,73%,88%,1019 mb,Excellent,2020-10-21
+03:00,Overcast,20 °c,20 °c,10 km/h from NNW,17 km/h,0.0 mm,73%,78%,1019 mb,Excellent,2020-10-21
+06:00,Cloudy,20 °c,20 °c,10 km/h from NNW,16 km/h,0.0 mm,73%,61%,1019 mb,Excellent,2020-10-21
+09:00,Partly cloudy,21 °c,21 °c,13 km/h from NNW,17 km/h,0.0 mm,67%,50%,1020 mb,Excellent,2020-10-21
+12:00,Partly cloudy,24 °c,26 °c,15 km/h from NNW,18 km/h,0.0 mm,57%,36%,1018 mb,Excellent,2020-10-21
+15:00,Partly cloudy,25 °c,26 °c,15 km/h from NW,20 km/h,0.0 mm,54%,20%,1014 mb,Excellent,2020-10-21
+18:00,Partly cloudy,23 °c,25 °c,11 km/h from NW,17 km/h,0.0 mm,63%,26%,1015 mb,Excellent,2020-10-21
+21:00,Partly cloudy,22 °c,22 °c,8 km/h from NW,13 km/h,0.0 mm,68%,27%,1016 mb,Excellent,2020-10-21
+00:00,Patchy rain possible,19 °c,19 °c,16 km/h from NW,26 km/h,0.1 mm,84%,84%,1016 mb,Excellent,2020-10-19
+03:00,Patchy rain possible,21 °c,21 °c,14 km/h from NNW,22 km/h,0.2 mm,84%,96%,1015 mb,Average,2020-10-19
+06:00,Light drizzle,20 °c,20 °c,12 km/h from NNW,18 km/h,0.3 mm,82%,100%,1016 mb,Poor,2020-10-19
+09:00,Light drizzle,21 °c,21 °c,10 km/h from NNW,16 km/h,0.4 mm,78%,100%,1018 mb,Poor,2020-10-19
+12:00,Light drizzle,22 °c,22 °c,11 km/h from NNW,17 km/h,0.4 mm,75%,100%,1017 mb,Poor,2020-10-19
+15:00,Light drizzle,22 °c,25 °c,12 km/h from NW,19 km/h,0.1 mm,77%,82%,1015 mb,Good,2020-10-19
+18:00,Cloudy,22 °c,22 °c,11 km/h from NNW,18 km/h,0.0 mm,79%,91%,1016 mb,Excellent,2020-10-19
+21:00,Overcast,22 °c,22 °c,11 km/h from N,18 km/h,0.0 mm,75%,97%,1017 mb,Excellent,2020-10-19
+00:00,Cloudy,22 °c,25 °c,20 km/h from NNE,33 km/h,0.0 mm,75%,67%,1016 mb,Excellent,2020-10-17
+03:00,Partly cloudy,22 °c,22 °c,19 km/h from N,31 km/h,0.0 mm,74%,86%,1015 mb,Excellent,2020-10-17
+06:00,Overcast,22 °c,22 °c,15 km/h from WSW,24 km/h,0.0 mm,75%,100%,1016 mb,Excellent,2020-10-17
+09:00,Overcast,22 °c,22 °c,13 km/h from N,19 km/h,0.0 mm,75%,90%,1017 mb,Excellent,2020-10-17
+12:00,Cloudy,24 °c,25 °c,15 km/h from N,21 km/h,0.0 mm,67%,65%,1016 mb,Excellent,2020-10-17
+15:00,Partly cloudy,25 °c,27 °c,17 km/h from N,22 km/h,0.0 mm,60%,63%,1014 mb,Excellent,2020-10-17
+18:00,Cloudy,24 °c,26 °c,13 km/h from NNW,19 km/h,0.0 mm,67%,52%,1014 mb,Excellent,2020-10-17
+21:00,Partly cloudy,23 °c,25 °c,12 km/h from N,19 km/h,0.0 mm,72%,61%,1016 mb,Excellent,2020-10-17
+00:00,Overcast,24 °c,25 °c,15 km/h from NNW,24 km/h,0.0 mm,71%,100%,1009 mb,Excellent,2020-10-14
+03:00,Overcast,25 °c,27 °c,16 km/h from NNW,26 km/h,0.1 mm,74%,84%,1007 mb,Average,2020-10-14
+06:00,Light drizzle,25 °c,26 °c,16 km/h from NNW,26 km/h,0.1 mm,76%,89%,1008 mb,Good,2020-10-14
+09:00,Overcast,25 °c,26 °c,19 km/h from NW,29 km/h,0.1 mm,78%,99%,1009 mb,Excellent,2020-10-14
+12:00,Patchy rain possible,24 °c,26 °c,22 km/h from NNW,32 km/h,0.2 mm,80%,100%,1008 mb,Average,2020-10-14
+15:00,Light drizzle,24 °c,26 °c,20 km/h from NNW,31 km/h,0.5 mm,81%,100%,1006 mb,Poor,2020-10-14
+18:00,Light drizzle,24 °c,26 °c,20 km/h from NNW,32 km/h,0.2 mm,83%,100%,1007 mb,Good,2020-10-14
+21:00,Overcast,23 °c,25 °c,21 km/h from NNW,32 km/h,2.5 mm,87%,100%,1008 mb,Excellent,2020-10-14
+00:00,Partly cloudy,22 °c,25 °c,11 km/h from SW,21 km/h,0.0 mm,53%,3%,1016 mb,Excellent,2020-10-23
+03:00,Partly cloudy,20 °c,20 °c,12 km/h from NW,21 km/h,0.0 mm,63%,4%,1015 mb,Excellent,2020-10-23
+06:00,Partly cloudy,19 °c,19 °c,12 km/h from NW,19 km/h,0.0 mm,68%,3%,1016 mb,Excellent,2020-10-23
+09:00,Partly cloudy,23 °c,23 °c,14 km/h from NNW,18 km/h,0.0 mm,52%,3%,1016 mb,Excellent,2020-10-23
+12:00,Partly cloudy,27 °c,27 °c,17 km/h from ESE,20 km/h,0.0 mm,35%,5%,1014 mb,Excellent,2020-10-23
+15:00,Partly cloudy,28 °c,28 °c,14 km/h from N,17 km/h,0.0 mm,35%,5%,1012 mb,Excellent,2020-10-23
+18:00,Partly cloudy,25 °c,26 °c,12 km/h from NNE,20 km/h,0.0 mm,46%,6%,1013 mb,Excellent,2020-10-23
+21:00,Partly cloudy,23 °c,25 °c,11 km/h from NNE,20 km/h,0.0 mm,52%,7%,1015 mb,Excellent,2020-10-23
+00:00,Partly cloudy,25 °c,27 °c,13 km/h from SW,22 km/h,0.0 mm,68%,36%,1011 mb,Excellent,2020-10-13
+03:00,Partly cloudy,25 °c,26 °c,14 km/h from NNW,24 km/h,0.0 mm,68%,62%,1010 mb,Excellent,2020-10-13
+06:00,Cloudy,24 °c,26 °c,15 km/h from NNW,23 km/h,0.0 mm,71%,58%,1011 mb,Excellent,2020-10-13
+09:00,Partly cloudy,26 °c,27 °c,13 km/h from NNW,19 km/h,0.0 mm,68%,47%,1011 mb,Excellent,2020-10-13
+12:00,Partly cloudy,30 °c,31 °c,15 km/h from N,18 km/h,0.0 mm,54%,36%,1010 mb,Excellent,2020-10-13
+15:00,Partly cloudy,31 °c,34 °c,14 km/h from SE,18 km/h,0.0 mm,49%,35%,1008 mb,Excellent,2020-10-13
+18:00,Partly cloudy,30 °c,32 °c,12 km/h from NNE,18 km/h,0.0 mm,56%,43%,1008 mb,Excellent,2020-10-13
+21:00,Partly cloudy,27 °c,29 °c,11 km/h from N,20 km/h,0.0 mm,64%,45%,1010 mb,Excellent,2020-10-13
+00:00,Partly cloudy,21 °c,21 °c,10 km/h from N,19 km/h,0.0 mm,56%,10%,1015 mb,Excellent,2020-10-24
+03:00,Partly cloudy,20 °c,20 °c,10 km/h from SW,19 km/h,0.0 mm,61%,11%,1014 mb,Excellent,2020-10-24
+06:00,Partly cloudy,19 °c,19 °c,12 km/h from NW,19 km/h,0.0 mm,65%,10%,1015 mb,Excellent,2020-10-24
+09:00,Partly cloudy,23 °c,24 °c,14 km/h from NNW,17 km/h,0.0 mm,54%,13%,1016 mb,Excellent,2020-10-24
+12:00,Partly cloudy,26 °c,26 °c,13 km/h from ESE,16 km/h,0.0 mm,44%,34%,1014 mb,Excellent,2020-10-24
+15:00,Partly cloudy,26 °c,26 °c,13 km/h from NNE,19 km/h,0.0 mm,45%,55%,1012 mb,Excellent,2020-10-24
+18:00,Partly cloudy,24 °c,25 °c,16 km/h from NE,25 km/h,0.0 mm,50%,55%,1013 mb,Excellent,2020-10-24
+21:00,Partly cloudy,23 °c,25 °c,14 km/h from NNE,23 km/h,0.0 mm,53%,76%,1015 mb,Excellent,2020-10-24
+00:00,Partly cloudy,25 °c,26 °c,3 km/h from WNW,4 km/h,0.0 mm,76%,16%,1013 mb,Excellent,2020-10-11
+03:00,Partly cloudy,23 °c,25 °c,4 km/h from N,7 km/h,0.0 mm,79%,10%,1013 mb,Excellent,2020-10-11
+06:00,Partly cloudy,23 °c,25 °c,8 km/h from NNW,12 km/h,0.0 mm,78%,16%,1013 mb,Excellent,2020-10-11
+09:00,Partly cloudy,26 °c,28 °c,13 km/h from ESE,15 km/h,0.0 mm,63%,22%,1013 mb,Excellent,2020-10-11
+12:00,Partly cloudy,29 °c,30 °c,13 km/h from WSW,15 km/h,0.0 mm,52%,59%,1011 mb,Excellent,2020-10-11
+15:00,Cloudy,30 °c,31 °c,7 km/h from N,9 km/h,0.0 mm,53%,54%,1009 mb,Excellent,2020-10-11
+18:00,Partly cloudy,28 °c,30 °c,5 km/h from SE,6 km/h,0.0 mm,62%,73%,1010 mb,Excellent,2020-10-11
+21:00,Overcast,26 °c,28 °c,4 km/h from NNE,7 km/h,0.0 mm,72%,58%,1012 mb,Excellent,2020-10-11
+00:00,Partly cloudy,24 °c,25 °c,8 km/h from NNE,13 km/h,0.0 mm,73%,16%,1015 mb,Excellent,2020-10-10
+03:00,Partly cloudy,23 °c,25 °c,10 km/h from NNE,17 km/h,0.0 mm,76%,17%,1015 mb,Excellent,2020-10-10
+06:00,Partly cloudy,23 °c,25 °c,12 km/h from WSW,18 km/h,0.0 mm,76%,14%,1015 mb,Excellent,2020-10-10
+09:00,Partly cloudy,26 °c,27 °c,16 km/h from SE,19 km/h,0.0 mm,63%,19%,1016 mb,Excellent,2020-10-10
+12:00,Partly cloudy,29 °c,30 °c,15 km/h from NNE,18 km/h,0.0 mm,51%,44%,1014 mb,Excellent,2020-10-10
+15:00,Partly cloudy,30 °c,31 °c,13 km/h from NE,15 km/h,0.0 mm,49%,37%,1011 mb,Excellent,2020-10-10
+18:00,Partly cloudy,27 °c,29 °c,11 km/h from E,17 km/h,0.0 mm,61%,32%,1012 mb,Excellent,2020-10-10
+21:00,Partly cloudy,25 °c,27 °c,7 km/h from ESE,12 km/h,0.0 mm,74%,35%,1013 mb,Excellent,2020-10-10
+00:00,Cloudy,19 °c,19 °c,14 km/h from N,24 km/h,0.0 mm,71%,95%,1016 mb,Excellent,2020-10-18
+03:00,Overcast,22 °c,22 °c,16 km/h from N,26 km/h,0.0 mm,71%,94%,1015 mb,Excellent,2020-10-18
+06:00,Overcast,21 °c,21 °c,14 km/h from NNW,23 km/h,0.1 mm,74%,95%,1016 mb,Average,2020-10-18
+09:00,Light drizzle,21 °c,21 °c,14 km/h from NNW,21 km/h,0.2 mm,76%,99%,1017 mb,Poor,2020-10-18
+12:00,Light drizzle,21 °c,21 °c,13 km/h from NNW,19 km/h,0.4 mm,78%,100%,1016 mb,Poor,2020-10-18
+15:00,Light drizzle,21 °c,21 °c,13 km/h from NW,20 km/h,0.6 mm,82%,100%,1015 mb,Poor,2020-10-18
+18:00,Light drizzle,19 °c,19 °c,15 km/h from NW,24 km/h,0.6 mm,82%,78%,1016 mb,Average,2020-10-18
+21:00,Patchy light drizzle,14 °c,14 °c,14 km/h from NNW,24 km/h,0.2 mm,81%,77%,1017 mb,Excellent,2020-10-18
+00:00,Heavy rain,21 °c,21 °c,12 km/h from NNW,17 km/h,10.1 mm,96%,100%,1012 mb,Good,2020-10-16
+03:00,Heavy rain,22 °c,22 °c,11 km/h from ESE,17 km/h,6.1 mm,94%,100%,1012 mb,Good,2020-10-16
+06:00,Moderate rain,22 °c,25 °c,11 km/h from N,17 km/h,3.7 mm,92%,100%,1013 mb,Good,2020-10-16
+09:00,Moderate rain,23 °c,25 °c,13 km/h from SW,19 km/h,1.3 mm,88%,100%,1015 mb,Excellent,2020-10-16
+12:00,Patchy rain possible,23 °c,25 °c,16 km/h from NNW,23 km/h,0.0 mm,85%,100%,1014 mb,Excellent,2020-10-16
+15:00,Overcast,24 °c,26 °c,17 km/h from NW,25 km/h,0.1 mm,84%,96%,1012 mb,Excellent,2020-10-16
+18:00,Light rain shower,23 °c,25 °c,15 km/h from NNW,24 km/h,0.1 mm,85%,94%,1013 mb,Excellent,2020-10-16
+21:00,Overcast,22 °c,25 °c,14 km/h from NNW,24 km/h,0.0 mm,85%,98%,1015 mb,Excellent,2020-10-16
+00:00,Light drizzle,21 °c,21 °c,17 km/h from NNE,26 km/h,0.2 mm,89%,100%,1009 mb,Good,2020-10-15
+03:00,Overcast,23 °c,25 °c,14 km/h from WSW,21 km/h,0.5 mm,92%,100%,1008 mb,Excellent,2020-10-15
+06:00,Light rain,23 °c,25 °c,13 km/h from NNW,19 km/h,0.3 mm,90%,100%,1009 mb,Excellent,2020-10-15
+09:00,Overcast,23 °c,25 °c,15 km/h from NNW,21 km/h,2.1 mm,91%,100%,1011 mb,Excellent,2020-10-15
+12:00,Moderate rain,22 °c,25 °c,17 km/h from NNW,24 km/h,1.1 mm,93%,100%,1010 mb,Excellent,2020-10-15
+15:00,Overcast,22 °c,22 °c,17 km/h from NNW,24 km/h,32.5 mm,96%,100%,1009 mb,Good,2020-10-15
+18:00,Heavy rain,22 °c,22 °c,15 km/h from NW,22 km/h,54.3 mm,97%,100%,1011 mb,Good,2020-10-15
+21:00,Heavy rain,18 °c,18 °c,13 km/h from NNW,20 km/h,22.6 mm,94%,100%,1012 mb,Good,2020-10-15
+00:00,Partly cloudy,23 °c,25 °c,15 km/h from NNE,25 km/h,0.0 mm,71%,65%,1017 mb,Excellent,2020-10-9
+03:00,Cloudy,22 °c,25 °c,16 km/h from N,27 km/h,0.0 mm,72%,52%,1016 mb,Excellent,2020-10-9
+06:00,Partly cloudy,22 °c,25 °c,15 km/h from SW,23 km/h,0.0 mm,72%,29%,1017 mb,Excellent,2020-10-9
+09:00,Partly cloudy,25 °c,27 °c,17 km/h from SE,22 km/h,0.0 mm,63%,21%,1018 mb,Excellent,2020-10-9
+12:00,Partly cloudy,29 °c,30 °c,17 km/h from NNE,19 km/h,0.0 mm,52%,62%,1016 mb,Excellent,2020-10-9
+15:00,Cloudy,30 °c,31 °c,12 km/h from NE,15 km/h,0.0 mm,52%,44%,1013 mb,Excellent,2020-10-9
+18:00,Partly cloudy,28 °c,29 °c,10 km/h from ENE,16 km/h,0.0 mm,61%,15%,1014 mb,Excellent,2020-10-9
+21:00,Partly cloudy,25 °c,27 °c,7 km/h from E,11 km/h,0.0 mm,73%,15%,1015 mb,Excellent,2020-10-9
+00:00,Partly cloudy,25 °c,27 °c,3 km/h from SSW,4 km/h,0.0 mm,80%,62%,1014 mb,Excellent,2020-10-28
+03:00,Cloudy,24 °c,26 °c,7 km/h from WNW,12 km/h,0.0 mm,81%,38%,1013 mb,Excellent,2020-10-28
+06:00,Partly cloudy,24 °c,26 °c,12 km/h from NNW,19 km/h,0.0 mm,81%,23%,1013 mb,Excellent,2020-10-28
+09:00,Partly cloudy,27 °c,29 °c,18 km/h from ESE,23 km/h,0.0 mm,67%,20%,1014 mb,Excellent,2020-10-28
+12:00,Partly cloudy,30 °c,32 °c,24 km/h from NNE,28 km/h,0.0 mm,52%,59%,1012 mb,Excellent,2020-10-28
+15:00,Cloudy,29 °c,31 °c,20 km/h from NE,29 km/h,0.0 mm,54%,92%,1010 mb,Excellent,2020-10-28
+18:00,Overcast,28 °c,29 °c,18 km/h from NE,30 km/h,0.0 mm,58%,99%,1011 mb,Excellent,2020-10-28
+21:00,Overcast,26 °c,28 °c,19 km/h from NE,31 km/h,0.1 mm,62%,84%,1013 mb,Excellent,2020-10-28
+00:00,Partly cloudy,27 °c,31 °c,11 km/h from SE,17 km/h,0.0 mm,86%,24%,1009 mb,Excellent,2020-10-5
+03:00,Partly cloudy,27 °c,31 °c,8 km/h from SE,13 km/h,0.1 mm,89%,66%,1009 mb,Excellent,2020-10-5
+06:00,Patchy rain possible,27 °c,32 °c,6 km/h from ESE,8 km/h,0.1 mm,87%,47%,1010 mb,Excellent,2020-10-5
+09:00,Partly cloudy,30 °c,35 °c,8 km/h from ESE,11 km/h,1.0 mm,73%,60%,1011 mb,Excellent,2020-10-5
+12:00,Patchy rain possible,32 °c,37 °c,17 km/h from ESE,20 km/h,0.6 mm,63%,80%,1010 mb,Excellent,2020-10-5
+15:00,Patchy rain possible,31 °c,36 °c,20 km/h from SE,28 km/h,1.7 mm,64%,83%,1008 mb,Excellent,2020-10-5
+18:00,Moderate or heavy rain shower,28 °c,32 °c,14 km/h from SE,23 km/h,2.6 mm,75%,79%,1010 mb,Good,2020-10-5
+21:00,Moderate or heavy rain shower,27 °c,30 °c,9 km/h from SE,14 km/h,1.9 mm,85%,77%,1012 mb,Excellent,2020-10-5
+00:00,Partly cloudy,27 °c,32 °c,5 km/h from SE,8 km/h,0.0 mm,89%,26%,1009 mb,Excellent,2020-10-3
+03:00,Partly cloudy,27 °c,31 °c,4 km/h from E,6 km/h,0.0 mm,90%,34%,1008 mb,Excellent,2020-10-3
+06:00,Partly cloudy,27 °c,31 °c,4 km/h from NE,6 km/h,0.0 mm,87%,32%,1009 mb,Excellent,2020-10-3
+09:00,Partly cloudy,30 °c,36 °c,7 km/h from E,10 km/h,1.4 mm,71%,44%,1010 mb,Excellent,2020-10-3
+12:00,Light rain shower,33 °c,39 °c,11 km/h from SE,14 km/h,1.0 mm,60%,66%,1009 mb,Excellent,2020-10-3
+15:00,Light rain shower,33 °c,39 °c,15 km/h from SE,19 km/h,0.2 mm,60%,66%,1006 mb,Excellent,2020-10-3
+18:00,Partly cloudy,29 °c,34 °c,15 km/h from SE,22 km/h,0.1 mm,75%,68%,1007 mb,Excellent,2020-10-3
+21:00,Patchy rain possible,27 °c,32 °c,13 km/h from SE,19 km/h,0.0 mm,85%,49%,1010 mb,Excellent,2020-10-3
+00:00,Cloudy,27 °c,31 °c,9 km/h from SE,13 km/h,0.0 mm,91%,78%,1010 mb,Excellent,2020-10-4
+03:00,Cloudy,27 °c,31 °c,8 km/h from ESE,12 km/h,0.2 mm,91%,79%,1009 mb,Excellent,2020-10-4
+06:00,Patchy rain possible,27 °c,31 °c,8 km/h from E,12 km/h,0.2 mm,87%,91%,1010 mb,Excellent,2020-10-4
+09:00,Light rain shower,30 °c,35 °c,10 km/h from ESE,13 km/h,0.7 mm,73%,88%,1011 mb,Excellent,2020-10-4
+12:00,Light rain shower,32 °c,38 °c,12 km/h from SE,14 km/h,0.3 mm,62%,61%,1009 mb,Excellent,2020-10-4
+15:00,Partly cloudy,32 °c,39 °c,13 km/h from SE,16 km/h,0.1 mm,62%,74%,1006 mb,Excellent,2020-10-4
+18:00,Patchy rain possible,30 °c,35 °c,13 km/h from SE,20 km/h,0.0 mm,74%,37%,1007 mb,Excellent,2020-10-4
+21:00,Partly cloudy,28 °c,33 °c,12 km/h from SE,17 km/h,0.0 mm,83%,13%,1009 mb,Excellent,2020-10-4
+00:00,Patchy rain possible,28 °c,32 °c,4 km/h from ESE,6 km/h,0.0 mm,87%,42%,1008 mb,Excellent,2020-10-2
+03:00,Partly cloudy,27 °c,31 °c,4 km/h from NE,6 km/h,0.1 mm,88%,65%,1007 mb,Excellent,2020-10-2
+06:00,Patchy rain possible,27 °c,31 °c,5 km/h from N,7 km/h,0.0 mm,86%,42%,1008 mb,Excellent,2020-10-2
+09:00,Partly cloudy,30 °c,35 °c,6 km/h from NE,8 km/h,0.0 mm,72%,65%,1009 mb,Excellent,2020-10-2
+12:00,Cloudy,32 °c,38 °c,12 km/h from E,14 km/h,0.0 mm,64%,58%,1008 mb,Excellent,2020-10-2
+15:00,Partly cloudy,32 °c,38 °c,14 km/h from ESE,17 km/h,0.1 mm,64%,70%,1006 mb,Excellent,2020-10-2
+18:00,Patchy rain possible,29 °c,35 °c,13 km/h from SE,18 km/h,0.0 mm,75%,43%,1007 mb,Excellent,2020-10-2
+21:00,Partly cloudy,28 °c,33 °c,10 km/h from SE,15 km/h,0.0 mm,84%,28%,1009 mb,Excellent,2020-10-2
+00:00,Partly cloudy,24 °c,26 °c,6 km/h from SW,9 km/h,0.0 mm,77%,9%,1011 mb,Excellent,2020-10-12
+03:00,Partly cloudy,23 °c,25 °c,9 km/h from NNW,15 km/h,0.0 mm,79%,15%,1011 mb,Excellent,2020-10-12
+06:00,Partly cloudy,23 °c,25 °c,12 km/h from NNW,18 km/h,0.0 mm,79%,16%,1012 mb,Excellent,2020-10-12
+09:00,Partly cloudy,26 °c,28 °c,18 km/h from ESE,22 km/h,0.0 mm,63%,17%,1012 mb,Excellent,2020-10-12
+12:00,Partly cloudy,30 °c,32 °c,18 km/h from NNE,21 km/h,0.0 mm,51%,44%,1010 mb,Excellent,2020-10-12
+15:00,Partly cloudy,31 °c,33 °c,13 km/h from NE,16 km/h,0.0 mm,52%,46%,1009 mb,Excellent,2020-10-12
+18:00,Partly cloudy,28 °c,30 °c,10 km/h from NE,17 km/h,0.0 mm,60%,28%,1009 mb,Excellent,2020-10-12
+21:00,Partly cloudy,26 °c,28 °c,9 km/h from WSW,16 km/h,0.0 mm,67%,20%,1011 mb,Excellent,2020-10-12
+00:00,Patchy rain possible,25 °c,28 °c,7 km/h from ENE,11 km/h,0.6 mm,86%,88%,1015 mb,Excellent,2020-10-7
+03:00,Light rain shower,24 °c,26 °c,11 km/h from NNE,18 km/h,0.3 mm,85%,75%,1014 mb,Excellent,2020-10-7
+06:00,Patchy rain possible,23 °c,25 °c,14 km/h from NNE,21 km/h,0.1 mm,82%,88%,1015 mb,Excellent,2020-10-7
+09:00,Patchy rain possible,26 °c,29 °c,15 km/h from NNE,19 km/h,0.0 mm,71%,80%,1016 mb,Excellent,2020-10-7
+12:00,Cloudy,30 °c,33 °c,14 km/h from NE,17 km/h,0.0 mm,59%,55%,1014 mb,Excellent,2020-10-7
+15:00,Partly cloudy,31 °c,34 °c,14 km/h from NE,18 km/h,0.0 mm,57%,30%,1012 mb,Excellent,2020-10-7
+18:00,Partly cloudy,28 °c,31 °c,11 km/h from ENE,17 km/h,0.1 mm,69%,56%,1012 mb,Excellent,2020-10-7
+21:00,Light rain shower,26 °c,29 °c,7 km/h from NE,12 km/h,0.1 mm,74%,53%,1015 mb,Excellent,2020-10-7
+00:00,Partly cloudy,26 °c,30 °c,6 km/h from SE,10 km/h,0.0 mm,92%,61%,1009 mb,Excellent,2020-9-29
+03:00,Cloudy,26 °c,30 °c,5 km/h from ESE,9 km/h,0.2 mm,92%,63%,1009 mb,Excellent,2020-9-29
+06:00,Light rain shower,27 °c,31 °c,5 km/h from ENE,6 km/h,0.1 mm,89%,53%,1009 mb,Excellent,2020-9-29
+09:00,Partly cloudy,30 °c,35 °c,6 km/h from E,7 km/h,0.1 mm,74%,72%,1009 mb,Excellent,2020-9-29
+12:00,Light rain shower,32 °c,39 °c,9 km/h from SE,12 km/h,0.5 mm,63%,63%,1007 mb,Excellent,2020-9-29
+15:00,Light rain shower,32 °c,39 °c,14 km/h from SE,18 km/h,0.5 mm,64%,75%,1004 mb,Excellent,2020-9-29
+18:00,Patchy rain possible,29 °c,35 °c,17 km/h from SE,25 km/h,0.4 mm,76%,84%,1005 mb,Excellent,2020-9-29
+21:00,Patchy rain possible,27 °c,32 °c,13 km/h from SSE,21 km/h,0.1 mm,86%,41%,1007 mb,Excellent,2020-9-29
+00:00,Moderate or heavy rain shower,27 °c,31 °c,14 km/h from SE,27 km/h,9.8 mm,91%,71%,1008 mb,Average,2020-9-27
+03:00,Torrential rain shower,27 °c,31 °c,11 km/h from SE,21 km/h,7.3 mm,91%,81%,1007 mb,Good,2020-9-27
+06:00,Moderate or heavy rain shower,27 °c,31 °c,12 km/h from ESE,22 km/h,5.0 mm,88%,64%,1008 mb,Good,2020-9-27
+09:00,Moderate or heavy rain shower,29 °c,35 °c,12 km/h from ESE,24 km/h,5.8 mm,77%,76%,1009 mb,Good,2020-9-27
+12:00,Moderate or heavy rain shower,31 °c,37 °c,14 km/h from SE,21 km/h,2.6 mm,69%,78%,1008 mb,Excellent,2020-9-27
+15:00,Light rain shower,30 °c,36 °c,14 km/h from ESE,20 km/h,1.9 mm,76%,78%,1006 mb,Excellent,2020-9-27
+18:00,Light rain shower,28 °c,33 °c,14 km/h from ESE,22 km/h,3.1 mm,85%,77%,1007 mb,Excellent,2020-9-27
+21:00,Moderate or heavy rain shower,27 °c,31 °c,10 km/h from SE,17 km/h,1.2 mm,90%,77%,1009 mb,Excellent,2020-9-27
+00:00,Partly cloudy,27 °c,31 °c,9 km/h from SE,14 km/h,0.0 mm,89%,36%,1007 mb,Excellent,2020-9-30
+03:00,Partly cloudy,26 °c,31 °c,7 km/h from ESE,11 km/h,0.0 mm,92%,55%,1006 mb,Excellent,2020-9-30
+06:00,Partly cloudy,27 °c,31 °c,5 km/h from E,8 km/h,0.0 mm,91%,61%,1007 mb,Excellent,2020-9-30
+09:00,Partly cloudy,30 °c,36 °c,6 km/h from E,8 km/h,0.3 mm,76%,73%,1007 mb,Excellent,2020-9-30
+12:00,Light rain shower,32 °c,39 °c,8 km/h from ESE,13 km/h,3.9 mm,66%,63%,1005 mb,Excellent,2020-9-30
+15:00,Moderate or heavy rain shower,32 °c,39 °c,11 km/h from ESE,17 km/h,2.9 mm,70%,72%,1003 mb,Excellent,2020-9-30
+18:00,Patchy light rain with thunder,29 °c,35 °c,14 km/h from ESE,21 km/h,1.6 mm,81%,86%,1004 mb,Excellent,2020-9-30
+21:00,Patchy rain possible,28 °c,33 °c,12 km/h from SE,18 km/h,0.7 mm,88%,77%,1006 mb,Excellent,2020-9-30
+00:00,Light rain shower,26 °c,30 °c,11 km/h from SE,18 km/h,0.3 mm,91%,73%,1008 mb,Excellent,2020-9-26
+03:00,Light rain shower,26 °c,30 °c,10 km/h from SSE,16 km/h,0.3 mm,90%,87%,1007 mb,Excellent,2020-9-26
+06:00,Light rain shower,27 °c,31 °c,10 km/h from SE,15 km/h,0.1 mm,89%,80%,1007 mb,Excellent,2020-9-26
+09:00,Cloudy,29 °c,35 °c,13 km/h from SSE,16 km/h,0.3 mm,78%,70%,1008 mb,Excellent,2020-9-26
+12:00,Light rain shower,32 °c,39 °c,18 km/h from SSE,21 km/h,0.1 mm,70%,61%,1006 mb,Excellent,2020-9-26
+15:00,Partly cloudy,31 °c,39 °c,20 km/h from SE,28 km/h,1.7 mm,71%,54%,1004 mb,Excellent,2020-9-26
+18:00,Light rain shower,29 °c,34 °c,17 km/h from SE,28 km/h,2.5 mm,81%,76%,1005 mb,Excellent,2020-9-26
+21:00,Moderate or heavy rain shower,27 °c,32 °c,14 km/h from SE,22 km/h,1.0 mm,88%,68%,1008 mb,Excellent,2020-9-26
+00:00,Moderate or heavy rain shower,26 °c,29 °c,12 km/h from NE,24 km/h,5.9 mm,89%,71%,1011 mb,Good,2020-9-24
+03:00,Moderate or heavy rain shower,24 °c,27 °c,10 km/h from NNE,16 km/h,1.7 mm,89%,42%,1011 mb,Excellent,2020-9-24
+06:00,Partly cloudy,25 °c,27 °c,8 km/h from NNE,12 km/h,0.0 mm,87%,54%,1011 mb,Excellent,2020-9-24
+09:00,Cloudy,28 °c,32 °c,8 km/h from NE,9 km/h,0.0 mm,77%,66%,1012 mb,Excellent,2020-9-24
+12:00,Cloudy,31 °c,36 °c,7 km/h from E,8 km/h,0.0 mm,68%,69%,1010 mb,Excellent,2020-9-24
+15:00,Cloudy,30 °c,36 °c,10 km/h from SE,17 km/h,3.3 mm,72%,80%,1008 mb,Excellent,2020-9-24
+18:00,Moderate or heavy rain shower,28 °c,33 °c,12 km/h from SE,22 km/h,6.1 mm,83%,66%,1009 mb,Good,2020-9-24
+21:00,Moderate or heavy rain shower,27 °c,31 °c,11 km/h from SE,19 km/h,3.0 mm,88%,69%,1011 mb,Excellent,2020-9-24
+00:00,Patchy rain possible,27 °c,32 °c,6 km/h from ESE,10 km/h,0.1 mm,89%,41%,1007 mb,Excellent,2020-10-1
+03:00,Partly cloudy,27 °c,32 °c,4 km/h from ESE,6 km/h,0.2 mm,90%,64%,1006 mb,Excellent,2020-10-1
+06:00,Patchy rain possible,27 °c,32 °c,6 km/h from ENE,8 km/h,0.1 mm,88%,41%,1007 mb,Excellent,2020-10-1
+09:00,Partly cloudy,30 °c,35 °c,8 km/h from ENE,9 km/h,0.1 mm,72%,52%,1008 mb,Excellent,2020-10-1
+12:00,Patchy rain possible,33 °c,39 °c,10 km/h from ESE,11 km/h,0.0 mm,59%,74%,1006 mb,Excellent,2020-10-1
+15:00,Cloudy,32 °c,38 °c,14 km/h from SE,21 km/h,1.9 mm,63%,78%,1004 mb,Excellent,2020-10-1
+18:00,Moderate or heavy rain shower,29 °c,35 °c,13 km/h from SSE,22 km/h,3.2 mm,76%,83%,1006 mb,Good,2020-10-1
+21:00,Moderate or heavy rain shower,28 °c,32 °c,10 km/h from SE,16 km/h,1.1 mm,84%,42%,1008 mb,Excellent,2020-10-1
+00:00,Patchy rain possible,26 °c,29 °c,10 km/h from NNE,15 km/h,1.7 mm,86%,80%,1013 mb,Excellent,2020-10-6
+03:00,Light rain shower,24 °c,27 °c,10 km/h from NNE,15 km/h,1.2 mm,88%,93%,1012 mb,Excellent,2020-10-6
+06:00,Light rain shower,24 °c,26 °c,9 km/h from NNE,13 km/h,0.8 mm,85%,100%,1013 mb,Excellent,2020-10-6
+09:00,Light rain shower,26 °c,29 °c,12 km/h from NNE,14 km/h,0.5 mm,76%,98%,1014 mb,Excellent,2020-10-6
+12:00,Light rain shower,29 °c,32 °c,11 km/h from ENE,13 km/h,0.4 mm,68%,87%,1013 mb,Excellent,2020-10-6
+15:00,Light rain shower,30 °c,34 °c,10 km/h from ESE,15 km/h,1.6 mm,70%,79%,1011 mb,Excellent,2020-10-6
+18:00,Patchy rain possible,27 °c,31 °c,12 km/h from SE,18 km/h,2.3 mm,80%,82%,1012 mb,Excellent,2020-10-6
+21:00,Light rain shower,26 °c,28 °c,10 km/h from SSE,16 km/h,1.1 mm,86%,79%,1014 mb,Excellent,2020-10-6
+00:00,Light rain shower,26 °c,29 °c,9 km/h from SSE,15 km/h,2.6 mm,92%,84%,1010 mb,Excellent,2020-9-25
+03:00,Moderate or heavy rain shower,25 °c,29 °c,8 km/h from SSE,13 km/h,1.1 mm,94%,81%,1009 mb,Excellent,2020-9-25
+06:00,Patchy rain possible,26 °c,29 °c,9 km/h from SE,14 km/h,0.3 mm,92%,69%,1009 mb,Excellent,2020-9-25
+09:00,Light rain shower,29 °c,34 °c,12 km/h from SE,19 km/h,2.2 mm,80%,74%,1010 mb,Excellent,2020-9-25
+12:00,Moderate or heavy rain shower,31 °c,37 °c,15 km/h from SSE,24 km/h,3.0 mm,70%,66%,1007 mb,Good,2020-9-25
+15:00,Moderate or heavy rain shower,31 °c,38 °c,18 km/h from SE,29 km/h,2.7 mm,71%,54%,1005 mb,Good,2020-9-25
+18:00,Moderate or heavy rain shower,28 °c,33 °c,17 km/h from SE,27 km/h,2.6 mm,81%,71%,1005 mb,Good,2020-9-25
+21:00,Moderate or heavy rain shower,27 °c,30 °c,14 km/h from SE,23 km/h,0.9 mm,86%,68%,1008 mb,Excellent,2020-9-25
+00:00,Patchy rain possible,26 °c,29 °c,8 km/h from ENE,13 km/h,0.7 mm,89%,81%,1010 mb,Excellent,2020-9-28
+03:00,Light rain shower,25 °c,27 °c,7 km/h from NNE,11 km/h,0.3 mm,89%,74%,1009 mb,Excellent,2020-9-28
+06:00,Patchy rain possible,25 °c,27 °c,8 km/h from NNE,11 km/h,0.1 mm,87%,89%,1010 mb,Excellent,2020-9-28
+09:00,Patchy rain possible,28 °c,32 °c,9 km/h from NE,10 km/h,0.0 mm,76%,89%,1011 mb,Excellent,2020-9-28
+12:00,Cloudy,31 °c,36 °c,9 km/h from E,11 km/h,0.0 mm,66%,76%,1009 mb,Excellent,2020-9-28
+15:00,Cloudy,30 °c,36 °c,14 km/h from SE,18 km/h,0.5 mm,72%,73%,1007 mb,Excellent,2020-9-28
+18:00,Patchy rain possible,28 °c,32 °c,14 km/h from SE,22 km/h,0.2 mm,83%,51%,1007 mb,Excellent,2020-9-28
+21:00,Partly cloudy,27 °c,31 °c,10 km/h from ESE,16 km/h,0.1 mm,89%,53%,1009 mb,Excellent,2020-9-28
+00:00,Cloudy,25 °c,27 °c,13 km/h from NNE,21 km/h,0.0 mm,71%,61%,1015 mb,Excellent,2020-10-8
+03:00,Partly cloudy,24 °c,26 °c,15 km/h from NNE,24 km/h,0.0 mm,72%,49%,1014 mb,Excellent,2020-10-8
+06:00,Partly cloudy,24 °c,25 °c,16 km/h from NNE,24 km/h,0.0 mm,73%,49%,1015 mb,Excellent,2020-10-8
+09:00,Partly cloudy,26 °c,27 °c,20 km/h from NNE,24 km/h,0.0 mm,65%,65%,1017 mb,Excellent,2020-10-8
+12:00,Cloudy,29 °c,31 °c,18 km/h from NE,21 km/h,0.0 mm,56%,74%,1015 mb,Excellent,2020-10-8
+15:00,Cloudy,30 °c,32 °c,15 km/h from NE,19 km/h,0.0 mm,55%,45%,1013 mb,Excellent,2020-10-8
+18:00,Partly cloudy,27 °c,29 °c,15 km/h from NE,24 km/h,0.0 mm,63%,29%,1014 mb,Excellent,2020-10-8
+21:00,Partly cloudy,25 °c,27 °c,15 km/h from NNE,25 km/h,0.0 mm,69%,59%,1016 mb,Excellent,2020-10-8
